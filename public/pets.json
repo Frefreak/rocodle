@@ -1,0 +1,9986 @@
+[
+  {
+    "id": 3001,
+    "name": "miaomiao",
+    "displayName": "喵喵",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 65,
+      "phyAtk": 66,
+      "magAtk": 66,
+      "phyDef": 49,
+      "magDef": 91,
+      "spd": 33
+    }
+  },
+  {
+    "id": 3002,
+    "name": "shuilanlan",
+    "displayName": "水蓝蓝",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 75,
+      "phyAtk": 35,
+      "magAtk": 76,
+      "phyDef": 56,
+      "magDef": 79,
+      "spd": 51
+    }
+  },
+  {
+    "id": 3003,
+    "name": "huohua",
+    "displayName": "火花",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 70,
+      "phyAtk": 84,
+      "magAtk": 37,
+      "phyDef": 56,
+      "magDef": 43,
+      "spd": 78
+    }
+  },
+  {
+    "id": 3004,
+    "name": "dimo",
+    "displayName": "迪莫",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 120,
+      "phyAtk": 80,
+      "magAtk": 80,
+      "phyDef": 105,
+      "magDef": 105,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3005,
+    "name": "shuiling",
+    "displayName": "水灵",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 125,
+      "phyAtk": 58,
+      "magAtk": 127,
+      "phyDef": 94,
+      "magDef": 132,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3006,
+    "name": "huoshen",
+    "displayName": "火神",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 117,
+      "phyAtk": 139,
+      "magAtk": 61,
+      "phyDef": 94,
+      "magDef": 72,
+      "spd": 130
+    }
+  },
+  {
+    "id": 3007,
+    "name": "molimiao",
+    "displayName": "魔力猫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 108,
+      "phyAtk": 109,
+      "magAtk": 109,
+      "phyDef": 81,
+      "magDef": 151,
+      "spd": 55
+    }
+  },
+  {
+    "id": 3008,
+    "name": "caotouya",
+    "displayName": "草头鸭",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 92,
+      "phyAtk": 79,
+      "magAtk": 24,
+      "phyDef": 66,
+      "magDef": 50,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3010,
+    "name": "emoding",
+    "displayName": "恶魔叮",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 86,
+      "phyAtk": 112,
+      "magAtk": 44,
+      "phyDef": 58,
+      "magDef": 43,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3011,
+    "name": "emolang",
+    "displayName": "恶魔狼",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 115,
+      "phyAtk": 114,
+      "magAtk": 45,
+      "phyDef": 91,
+      "magDef": 63,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3012,
+    "name": "yajiji",
+    "displayName": "鸭吉吉",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 136,
+      "phyAtk": 95,
+      "magAtk": 35,
+      "phyDef": 55,
+      "magDef": 45,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3013,
+    "name": "kaijiachong",
+    "displayName": "铠甲虫",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 122,
+      "phyAtk": 88,
+      "magAtk": 39,
+      "phyDef": 121,
+      "magDef": 77,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3014,
+    "name": "amiyate",
+    "displayName": "阿米亚特",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 64,
+      "phyAtk": 95,
+      "magAtk": 47,
+      "phyDef": 67,
+      "magDef": 42,
+      "spd": 45
+    }
+  },
+  {
+    "id": 3015,
+    "name": "amiying",
+    "displayName": "阿米樱",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 86,
+      "phyAtk": 127,
+      "magAtk": 62,
+      "phyDef": 89,
+      "magDef": 56,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3016,
+    "name": "luoyin",
+    "displayName": "罗隐",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 107,
+      "phyAtk": 159,
+      "magAtk": 78,
+      "phyDef": 112,
+      "magDef": 70,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3017,
+    "name": "bengbengzhongzi",
+    "displayName": "蹦蹦种子",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 60,
+      "phyAtk": 64,
+      "magAtk": 66,
+      "phyDef": 44,
+      "magDef": 63,
+      "spd": 51
+    }
+  },
+  {
+    "id": 3018,
+    "name": "bengbengcao",
+    "displayName": "蹦蹦草",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 80,
+      "phyAtk": 85,
+      "magAtk": 88,
+      "phyDef": 59,
+      "magDef": 84,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3019,
+    "name": "bengbenghua",
+    "displayName": "蹦蹦花",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 100,
+      "phyAtk": 107,
+      "magAtk": 110,
+      "phyDef": 73,
+      "magDef": 105,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3020,
+    "name": "dishu",
+    "displayName": "地鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 66,
+      "phyAtk": 71,
+      "magAtk": 31,
+      "phyDef": 61,
+      "magDef": 42,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3021,
+    "name": "dunshu",
+    "displayName": "遁鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 88,
+      "phyAtk": 95,
+      "magAtk": 41,
+      "phyDef": 82,
+      "magDef": 56,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3022,
+    "name": "dundishu",
+    "displayName": "遁地鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 110,
+      "phyAtk": 119,
+      "magAtk": 51,
+      "phyDef": 102,
+      "magDef": 70,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3025,
+    "name": "miaowu",
+    "displayName": "喵呜",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 86,
+      "phyAtk": 87,
+      "magAtk": 87,
+      "phyDef": 65,
+      "magDef": 121,
+      "spd": 44
+    }
+  },
+  {
+    "id": 3026,
+    "name": "lvcaojingling",
+    "displayName": "绿草精灵",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 79,
+      "phyAtk": 35,
+      "magAtk": 89,
+      "phyDef": 87,
+      "magDef": 111,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3027,
+    "name": "pugongyingwawa",
+    "displayName": "蒲公英娃娃",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 111,
+      "phyAtk": 123,
+      "magAtk": 117,
+      "phyDef": 129,
+      "magDef": 97,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3028,
+    "name": "dongyuque",
+    "displayName": "冬羽雀",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 72,
+      "phyAtk": 103,
+      "magAtk": 44,
+      "phyDef": 86,
+      "magDef": 59,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3029,
+    "name": "qilicao",
+    "displayName": "奇丽草",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 67,
+      "phyAtk": 69,
+      "magAtk": 69,
+      "phyDef": 73,
+      "magDef": 57,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3030,
+    "name": "qiliye",
+    "displayName": "奇丽叶",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 92,
+      "magAtk": 92,
+      "phyDef": 97,
+      "magDef": 76,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3031,
+    "name": "qilihua",
+    "displayName": "奇丽花",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 112,
+      "phyAtk": 115,
+      "magAtk": 115,
+      "phyDef": 121,
+      "magDef": 95,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3032,
+    "name": "yanhuo",
+    "displayName": "焰火",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 93,
+      "phyAtk": 111,
+      "magAtk": 49,
+      "phyDef": 75,
+      "magDef": 58,
+      "spd": 104
+    }
+  },
+  {
+    "id": 3033,
+    "name": "bobola",
+    "displayName": "波波拉",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 100,
+      "phyAtk": 46,
+      "magAtk": 102,
+      "phyDef": 75,
+      "magDef": 106,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3034,
+    "name": "pugongying",
+    "displayName": "蒲公英",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 89,
+      "phyAtk": 99,
+      "magAtk": 94,
+      "phyDef": 103,
+      "magDef": 78,
+      "spd": 52
+    }
+  },
+  {
+    "id": 3035,
+    "name": "mocaowuling",
+    "displayName": "魔草巫灵",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 99,
+      "phyAtk": 43,
+      "magAtk": 112,
+      "phyDef": 109,
+      "magDef": 139,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3036,
+    "name": "yaji",
+    "displayName": "鸭吉吉",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 136,
+      "phyAtk": 35,
+      "magAtk": 95,
+      "phyDef": 45,
+      "magDef": 55,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3037,
+    "name": "lanniao",
+    "displayName": "岚鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 128,
+      "magAtk": 55,
+      "phyDef": 108,
+      "magDef": 74,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3038,
+    "name": "xiaojiachong",
+    "displayName": "小甲虫",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 98,
+      "phyAtk": 71,
+      "magAtk": 31,
+      "phyDef": 97,
+      "magDef": 61,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3039,
+    "name": "dingdingemo",
+    "displayName": "叮叮恶魔",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 108,
+      "phyAtk": 140,
+      "magAtk": 55,
+      "phyDef": 73,
+      "magDef": 54,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3040,
+    "name": "diudiu",
+    "displayName": "丢丢",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 44,
+      "phyAtk": 45,
+      "magAtk": 12,
+      "phyDef": 49,
+      "magDef": 40,
+      "spd": 78
+    }
+  },
+  {
+    "id": 3041,
+    "name": "kakachong",
+    "displayName": "卡卡虫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 59,
+      "phyAtk": 60,
+      "magAtk": 16,
+      "phyDef": 65,
+      "magDef": 53,
+      "spd": 104
+    }
+  },
+  {
+    "id": 3042,
+    "name": "kawachong",
+    "displayName": "卡瓦重",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 74,
+      "phyAtk": 75,
+      "magAtk": 20,
+      "phyDef": 81,
+      "magDef": 67,
+      "spd": 130
+    }
+  },
+  {
+    "id": 3043,
+    "name": "yibeier",
+    "displayName": "伊贝儿",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 85,
+      "phyAtk": 73,
+      "magAtk": 71,
+      "phyDef": 76,
+      "magDef": 76,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3044,
+    "name": "yibeifenfen",
+    "displayName": "伊贝粉粉",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 106,
+      "phyAtk": 91,
+      "magAtk": 89,
+      "phyDef": 95,
+      "magDef": 95,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3045,
+    "name": "youlingyang",
+    "displayName": "锥尾羊",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 67,
+      "phyAtk": 66,
+      "magAtk": 29,
+      "phyDef": 72,
+      "magDef": 49,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3046,
+    "name": "lanlingyang",
+    "displayName": "铃兰羊",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 89,
+      "phyAtk": 89,
+      "magAtk": 39,
+      "phyDef": 96,
+      "magDef": 65,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3047,
+    "name": "guimeilingyang",
+    "displayName": "花影羚羊",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 112,
+      "phyAtk": 111,
+      "magAtk": 48,
+      "phyDef": 120,
+      "magDef": 81,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3048,
+    "name": "shengguangdimo",
+    "displayName": "圣光迪莫",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 120,
+      "phyAtk": 80,
+      "magAtk": 80,
+      "phyDef": 105,
+      "magDef": 105,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3049,
+    "name": "baifalanren",
+    "displayName": "白发懒人",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 86,
+      "phyAtk": 94,
+      "magAtk": 38,
+      "phyDef": 81,
+      "magDef": 66,
+      "spd": 45
+    }
+  },
+  {
+    "id": 3050,
+    "name": "jiyishi",
+    "displayName": "记忆石",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 112,
+      "phyAtk": 108,
+      "magAtk": 97,
+      "phyDef": 141,
+      "magDef": 79,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3051,
+    "name": "shengcaodimo",
+    "displayName": "圣草迪莫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "stats": {
+      "hp": 120,
+      "phyAtk": 80,
+      "magAtk": 80,
+      "phyDef": 105,
+      "magDef": 105,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3055,
+    "name": "banbanke",
+    "displayName": "板板壳",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 67,
+      "phyAtk": 28,
+      "magAtk": 72,
+      "phyDef": 64,
+      "magDef": 81,
+      "spd": 45
+    }
+  },
+  {
+    "id": 3056,
+    "name": "kakake",
+    "displayName": "咔咔壳",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 37,
+      "magAtk": 96,
+      "phyDef": 85,
+      "magDef": 107,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3057,
+    "name": "shuipaoke",
+    "displayName": "水泡壳",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 112,
+      "phyAtk": 46,
+      "magAtk": 120,
+      "phyDef": 107,
+      "magDef": 134,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3058,
+    "name": "xiaomifeng",
+    "displayName": "一窝蜂",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 87,
+      "phyAtk": 32,
+      "magAtk": 29,
+      "phyDef": 27,
+      "magDef": 27,
+      "spd": 26
+    }
+  },
+  {
+    "id": 3059,
+    "name": "huangfenghou",
+    "displayName": "黄蜂后",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 116,
+      "phyAtk": 43,
+      "magAtk": 39,
+      "phyDef": 36,
+      "magDef": 36,
+      "spd": 35
+    }
+  },
+  {
+    "id": 3060,
+    "name": "xiaoyoulinglian",
+    "displayName": "小灵面",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 55,
+      "phyAtk": 30,
+      "magAtk": 72,
+      "phyDef": 59,
+      "magDef": 81,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3061,
+    "name": "youlinglian",
+    "displayName": "暗影灵面",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 74,
+      "phyAtk": 40,
+      "magAtk": 96,
+      "phyDef": 78,
+      "magDef": 108,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3062,
+    "name": "xiaodujiaoshou",
+    "displayName": "小独角兽",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 79,
+      "phyAtk": 48,
+      "magAtk": 129,
+      "phyDef": 62,
+      "magDef": 74,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3063,
+    "name": "baijindujiaoshou",
+    "displayName": "白金独角兽",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 99,
+      "phyAtk": 61,
+      "magAtk": 161,
+      "phyDef": 77,
+      "magDef": 92,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3064,
+    "name": "youlingshu",
+    "displayName": "幽影树",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 111,
+      "phyAtk": 96,
+      "magAtk": 96,
+      "phyDef": 65,
+      "magDef": 123,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3065,
+    "name": "huyouli",
+    "displayName": "忽幽狸",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 78,
+      "phyAtk": 87,
+      "magAtk": 84,
+      "phyDef": 84,
+      "magDef": 56,
+      "spd": 104
+    }
+  },
+  {
+    "id": 3066,
+    "name": "youlingli",
+    "displayName": "影狸",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 109,
+      "magAtk": 105,
+      "phyDef": 105,
+      "magDef": 70,
+      "spd": 130
+    }
+  },
+  {
+    "id": 3067,
+    "name": "zhuangzhuangya",
+    "displayName": "卷毛鸭",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 116,
+      "phyAtk": 98,
+      "magAtk": 29,
+      "phyDef": 83,
+      "magDef": 63,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3069,
+    "name": "chuitouguan",
+    "displayName": "锤头鹳",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 111,
+      "phyAtk": 67,
+      "magAtk": 65,
+      "phyDef": 91,
+      "magDef": 72,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3070,
+    "name": "huzhuquan",
+    "displayName": "护主犬",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 68,
+      "phyAtk": 103,
+      "magAtk": 37,
+      "phyDef": 81,
+      "magDef": 66,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3071,
+    "name": "yinsuquan",
+    "displayName": "音速犬",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 85,
+      "phyAtk": 128,
+      "magAtk": 46,
+      "phyDef": 101,
+      "magDef": 82,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3072,
+    "name": "gelanzhongzi",
+    "displayName": "格兰种子",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 65,
+      "phyAtk": 31,
+      "magAtk": 74,
+      "phyDef": 48,
+      "magDef": 67,
+      "spd": 36
+    }
+  },
+  {
+    "id": 3073,
+    "name": "gelanhua",
+    "displayName": "格兰花",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 86,
+      "phyAtk": 42,
+      "magAtk": 99,
+      "phyDef": 64,
+      "magDef": 90,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3074,
+    "name": "gelanqiu",
+    "displayName": "格兰球",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 108,
+      "phyAtk": 52,
+      "magAtk": 124,
+      "phyDef": 80,
+      "magDef": 112,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3075,
+    "name": "linghu",
+    "displayName": "灵狐",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 69,
+      "phyAtk": 52,
+      "magAtk": 52,
+      "phyDef": 50,
+      "magDef": 64,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3076,
+    "name": "jiuweihu",
+    "displayName": "九尾狐",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 92,
+      "phyAtk": 70,
+      "magAtk": 70,
+      "phyDef": 67,
+      "magDef": 86,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3077,
+    "name": "jianzuihuxian",
+    "displayName": "尖嘴狐仙",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 115,
+      "phyAtk": 87,
+      "magAtk": 87,
+      "phyDef": 84,
+      "magDef": 107,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3078,
+    "name": "liezuanniao",
+    "displayName": "烈钻鸟",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 55,
+      "phyAtk": 70,
+      "magAtk": 64,
+      "phyDef": 56,
+      "magDef": 56,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3079,
+    "name": "changweihuoniao",
+    "displayName": "长尾火鸟",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 74,
+      "phyAtk": 93,
+      "magAtk": 85,
+      "phyDef": 74,
+      "magDef": 74,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3080,
+    "name": "huoyu",
+    "displayName": "火羽",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 92,
+      "phyAtk": 116,
+      "magAtk": 106,
+      "phyDef": 93,
+      "magDef": 93,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3081,
+    "name": "zhiyuhuowa",
+    "displayName": "治愈兔",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 67,
+      "phyAtk": 28,
+      "magAtk": 73,
+      "phyDef": 60,
+      "magDef": 76,
+      "spd": 54
+    }
+  },
+  {
+    "id": 3082,
+    "name": "shengguanghuowa",
+    "displayName": "红丝绒",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 90,
+      "phyAtk": 38,
+      "magAtk": 98,
+      "phyDef": 80,
+      "magDef": 101,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3083,
+    "name": "keaiyuan",
+    "displayName": "可爱猿",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 100,
+      "phyAtk": 97,
+      "magAtk": 43,
+      "phyDef": 86,
+      "magDef": 67,
+      "spd": 36
+    }
+  },
+  {
+    "id": 3084,
+    "name": "zhireyuan",
+    "displayName": "炽热猿",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 133,
+      "phyAtk": 130,
+      "magAtk": 57,
+      "phyDef": 115,
+      "magDef": 89,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3085,
+    "name": "huoyanyuan",
+    "displayName": "火焰猿",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 167,
+      "phyAtk": 162,
+      "magAtk": 72,
+      "phyDef": 143,
+      "magDef": 111,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3086,
+    "name": "keliji",
+    "displayName": "可立鸡",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 65,
+      "phyAtk": 79,
+      "magAtk": 79,
+      "phyDef": 55,
+      "magDef": 52,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3087,
+    "name": "yunyunji",
+    "displayName": "晕晕鸡",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 86,
+      "phyAtk": 106,
+      "magAtk": 106,
+      "phyDef": 74,
+      "magDef": 70,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3088,
+    "name": "shenshiji",
+    "displayName": "绅士鸡",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 108,
+      "phyAtk": 132,
+      "magAtk": 132,
+      "phyDef": 92,
+      "magDef": 87,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3089,
+    "name": "wuzheji",
+    "displayName": "武者鸡",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 121,
+      "phyAtk": 144,
+      "magAtk": 58,
+      "phyDef": 92,
+      "magDef": 70,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3090,
+    "name": "huoweiwate",
+    "displayName": "火尾瓦特",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 63,
+      "phyAtk": 70,
+      "magAtk": 29,
+      "phyDef": 81,
+      "magDef": 56,
+      "spd": 39
+    }
+  },
+  {
+    "id": 3091,
+    "name": "huoweizhanshi",
+    "displayName": "火尾战士",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 84,
+      "phyAtk": 94,
+      "magAtk": 39,
+      "phyDef": 108,
+      "magDef": 74,
+      "spd": 52
+    }
+  },
+  {
+    "id": 3092,
+    "name": "liehuoshouhu",
+    "displayName": "烈火守护",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 105,
+      "phyAtk": 117,
+      "magAtk": 49,
+      "phyDef": 135,
+      "magDef": 93,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3093,
+    "name": "daixiaolu",
+    "displayName": "呆小路",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 52,
+      "phyAtk": 60,
+      "magAtk": 64,
+      "phyDef": 68,
+      "magDef": 79,
+      "spd": 57
+    }
+  },
+  {
+    "id": 3094,
+    "name": "wudonglulu",
+    "displayName": "舞动路路",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 69,
+      "phyAtk": 80,
+      "magAtk": 86,
+      "phyDef": 91,
+      "magDef": 105,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3095,
+    "name": "baifalulu",
+    "displayName": "白发路路",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 86,
+      "phyAtk": 100,
+      "magAtk": 107,
+      "phyDef": 113,
+      "magDef": 132,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3098,
+    "name": "lversongshu",
+    "displayName": "绿耳松鼠",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 69,
+      "phyAtk": 50,
+      "magAtk": 47,
+      "phyDef": 67,
+      "magDef": 52,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3099,
+    "name": "baozhensongshu",
+    "displayName": "抱枕松鼠",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 92,
+      "phyAtk": 67,
+      "magAtk": 63,
+      "phyDef": 89,
+      "magDef": 70,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3100,
+    "name": "bengchuangsongshu",
+    "displayName": "蹦床松鼠",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 114,
+      "phyAtk": 84,
+      "magAtk": 79,
+      "phyDef": 111,
+      "magDef": 87,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3101,
+    "name": "dongliyuan",
+    "displayName": "动力猿",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 115,
+      "phyAtk": 125,
+      "magAtk": 51,
+      "phyDef": 108,
+      "magDef": 88,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3102,
+    "name": "keshuiwang",
+    "displayName": "瞌睡王",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 144,
+      "phyAtk": 157,
+      "magAtk": 64,
+      "phyDef": 135,
+      "magDef": 110,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3103,
+    "name": "xiaobushi",
+    "displayName": "布是石",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 72,
+      "phyAtk": 81,
+      "magAtk": 29,
+      "phyDef": 95,
+      "magDef": 90,
+      "spd": 42
+    }
+  },
+  {
+    "id": 3104,
+    "name": "bulaishi",
+    "displayName": "布是岩",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 96,
+      "phyAtk": 108,
+      "magAtk": 39,
+      "phyDef": 127,
+      "magDef": 120,
+      "spd": 56
+    }
+  },
+  {
+    "id": 3105,
+    "name": "bulaikeyan",
+    "displayName": "布克棱岩",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 120,
+      "phyAtk": 135,
+      "magAtk": 49,
+      "phyDef": 159,
+      "magDef": 150,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3106,
+    "name": "huociyanxiyi",
+    "displayName": "石肤蜥",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 69,
+      "phyAtk": 54,
+      "magAtk": 53,
+      "phyDef": 65,
+      "magDef": 45,
+      "spd": 57
+    }
+  },
+  {
+    "id": 3107,
+    "name": "conglinluxiyi",
+    "displayName": "石刺蜥",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 92,
+      "phyAtk": 72,
+      "magAtk": 71,
+      "phyDef": 87,
+      "magDef": 60,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3108,
+    "name": "shihuacixiyi",
+    "displayName": "石冠王蜥",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 115,
+      "phyAtk": 89,
+      "magAtk": 89,
+      "phyDef": 109,
+      "magDef": 75,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3109,
+    "name": "maya",
+    "displayName": "仪使者",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 64,
+      "phyAtk": 54,
+      "magAtk": 57,
+      "phyDef": 69,
+      "magDef": 71,
+      "spd": 51
+    }
+  },
+  {
+    "id": 3110,
+    "name": "mayazhixing",
+    "displayName": "仪式之星",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 85,
+      "phyAtk": 72,
+      "magAtk": 76,
+      "phyDef": 92,
+      "magDef": 95,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3111,
+    "name": "mayashixianggui",
+    "displayName": "仪式巨像",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 106,
+      "phyAtk": 90,
+      "magAtk": 95,
+      "phyDef": 115,
+      "magDef": 119,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3112,
+    "name": "xiaotiantian",
+    "displayName": "甜田螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 68,
+      "phyAtk": 61,
+      "magAtk": 64,
+      "phyDef": 49,
+      "magDef": 74,
+      "spd": 54
+    }
+  },
+  {
+    "id": 3113,
+    "name": "hailuoguniang",
+    "displayName": "壳乙螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 91,
+      "phyAtk": 81,
+      "magAtk": 86,
+      "phyDef": 66,
+      "magDef": 99,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3114,
+    "name": "kaluoer",
+    "displayName": "卡洛儿",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 114,
+      "phyAtk": 102,
+      "magAtk": 107,
+      "phyDef": 82,
+      "magDef": 124,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3115,
+    "name": "fuzhousha",
+    "displayName": "风铃鲨",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 54,
+      "phyAtk": 46,
+      "magAtk": 46,
+      "phyDef": 63,
+      "magDef": 63,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3116,
+    "name": "landiesha",
+    "displayName": "蓝蝶鲨",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 72,
+      "phyAtk": 61,
+      "magAtk": 61,
+      "phyDef": 84,
+      "magDef": 84,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3117,
+    "name": "caidiesha",
+    "displayName": "彩蝶鲨",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 90,
+      "phyAtk": 77,
+      "magAtk": 77,
+      "phyDef": 105,
+      "magDef": 105,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3118,
+    "name": "guodong",
+    "displayName": "果冻",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 81,
+      "phyAtk": 26,
+      "magAtk": 81,
+      "phyDef": 75,
+      "magDef": 78,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3119,
+    "name": "feicuishuimu",
+    "displayName": "翡翠水母",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 108,
+      "phyAtk": 30,
+      "magAtk": 68,
+      "phyDef": 75,
+      "magDef": 109,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3120,
+    "name": "liulishuimu",
+    "displayName": "琉璃水母",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 134,
+      "phyAtk": 37,
+      "magAtk": 85,
+      "phyDef": 93,
+      "magDef": 136,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3121,
+    "name": "daermaodou",
+    "displayName": "大耳帽兜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 78,
+      "phyAtk": 62,
+      "magAtk": 59,
+      "phyDef": 39,
+      "magDef": 78,
+      "spd": 54
+    }
+  },
+  {
+    "id": 3122,
+    "name": "maodouwawa",
+    "displayName": "帽兜娃娃",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 104,
+      "phyAtk": 83,
+      "magAtk": 78,
+      "phyDef": 52,
+      "magDef": 104,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3123,
+    "name": "xueyingwawa",
+    "displayName": "雪影娃娃",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 130,
+      "phyAtk": 103,
+      "magAtk": 98,
+      "phyDef": 66,
+      "magDef": 130,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3124,
+    "name": "dingding",
+    "displayName": "脆筒甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 72,
+      "phyAtk": 67,
+      "magAtk": 72,
+      "phyDef": 42,
+      "magDef": 55,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3125,
+    "name": "yingtaodingding",
+    "displayName": "香草甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 96,
+      "phyAtk": 90,
+      "magAtk": 95,
+      "phyDef": 56,
+      "magDef": 74,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3126,
+    "name": "shuangqiudingding",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 119,
+      "phyAtk": 112,
+      "magAtk": 119,
+      "phyDef": 70,
+      "magDef": 92,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3127,
+    "name": "xiaoshijiu",
+    "displayName": "小狮鹫",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 61,
+      "phyAtk": 69,
+      "magAtk": 39,
+      "phyDef": 64,
+      "magDef": 33,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3128,
+    "name": "shenshengshijiu",
+    "displayName": "神圣狮鹫",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 82,
+      "phyAtk": 92,
+      "magAtk": 51,
+      "phyDef": 86,
+      "magDef": 44,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3129,
+    "name": "huangjiashijiu",
+    "displayName": "皇家狮鹫",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 102,
+      "phyAtk": 116,
+      "magAtk": 64,
+      "phyDef": 107,
+      "magDef": 55,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3130,
+    "name": "yuanyanzhizhu",
+    "displayName": "圆眼蜘蛛",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 55,
+      "phyAtk": 37,
+      "magAtk": 37,
+      "phyDef": 55,
+      "magDef": 55,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3131,
+    "name": "jianjiaozhizhu",
+    "displayName": "尖角蜘蛛",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 74,
+      "phyAtk": 49,
+      "magAtk": 49,
+      "phyDef": 73,
+      "magDef": 73,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3132,
+    "name": "fengcizhizhu",
+    "displayName": "芋香巨角蛛",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 92,
+      "phyAtk": 61,
+      "magAtk": 61,
+      "phyDef": 91,
+      "magDef": 91,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3136,
+    "name": "maomao",
+    "displayName": "毛毛",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 32,
+      "phyAtk": 28,
+      "magAtk": 28,
+      "phyDef": 40,
+      "magDef": 40,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3137,
+    "name": "papa",
+    "displayName": "爬爬",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 42,
+      "phyAtk": 37,
+      "magAtk": 37,
+      "phyDef": 53,
+      "magDef": 53,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3138,
+    "name": "huadie",
+    "displayName": "化蝶",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 53,
+      "phyAtk": 46,
+      "magAtk": 46,
+      "phyDef": 66,
+      "magDef": 66,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3139,
+    "name": "xiaocaochong",
+    "displayName": "小草虫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 73,
+      "phyAtk": 40,
+      "magAtk": 43,
+      "phyDef": 50,
+      "magDef": 57,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3140,
+    "name": "caoyichong",
+    "displayName": "草衣虫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 53,
+      "magAtk": 57,
+      "phyDef": 67,
+      "magDef": 75,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3141,
+    "name": "huayidie",
+    "displayName": "花衣蝶",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 122,
+      "phyAtk": 67,
+      "magAtk": 72,
+      "phyDef": 84,
+      "magDef": 94,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3142,
+    "name": "xiaoye",
+    "displayName": "小夜",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 60,
+      "phyAtk": 69,
+      "magAtk": 63,
+      "phyDef": 62,
+      "magDef": 51,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3143,
+    "name": "ziye",
+    "displayName": "紫夜",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 80,
+      "phyAtk": 92,
+      "magAtk": 84,
+      "phyDef": 83,
+      "magDef": 68,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3144,
+    "name": "ziyemeiying",
+    "displayName": "朔夜伊芙",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 100,
+      "phyAtk": 115,
+      "magAtk": 105,
+      "phyDef": 104,
+      "magDef": 85,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3145,
+    "name": "xiaolinggu",
+    "displayName": "小灵菇",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 67,
+      "phyAtk": 59,
+      "magAtk": 59,
+      "phyDef": 62,
+      "magDef": 82,
+      "spd": 45
+    }
+  },
+  {
+    "id": 3146,
+    "name": "youlinggu",
+    "displayName": "幻灵菇",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 89,
+      "phyAtk": 79,
+      "magAtk": 79,
+      "phyDef": 83,
+      "magDef": 109,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3147,
+    "name": "lunhuilinggu",
+    "displayName": "幻影灵菇",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 111,
+      "phyAtk": 98,
+      "magAtk": 98,
+      "phyDef": 103,
+      "magDef": 136,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3148,
+    "name": "anyekulou",
+    "displayName": "空空颅",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 70,
+      "phyAtk": 7,
+      "magAtk": 37,
+      "phyDef": 54,
+      "magDef": 64,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3149,
+    "name": "yejumo",
+    "displayName": "夜宿颅",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 94,
+      "phyAtk": 9,
+      "magAtk": 49,
+      "phyDef": 72,
+      "magDef": 85,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3150,
+    "name": "yexiao",
+    "displayName": "夜枭",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 117,
+      "phyAtk": 10,
+      "magAtk": 61,
+      "phyDef": 90,
+      "magDef": 106,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3151,
+    "name": "duoduo",
+    "displayName": "多多",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 47,
+      "phyAtk": 53,
+      "magAtk": 53,
+      "phyDef": 82,
+      "magDef": 66,
+      "spd": 54
+    }
+  },
+  {
+    "id": 3152,
+    "name": "duoladuo",
+    "displayName": "多啦多",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 63,
+      "phyAtk": 70,
+      "magAtk": 70,
+      "phyDef": 109,
+      "magDef": 88,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3153,
+    "name": "guladuo",
+    "displayName": "古啦多",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 79,
+      "phyAtk": 88,
+      "magAtk": 88,
+      "phyDef": 136,
+      "magDef": 110,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3154,
+    "name": "qiuluo",
+    "displayName": "裘洛",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 44,
+      "phyAtk": 56,
+      "magAtk": 50,
+      "phyDef": 39,
+      "magDef": 48,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3155,
+    "name": "qiuli",
+    "displayName": "裘力",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 59,
+      "phyAtk": 74,
+      "magAtk": 67,
+      "phyDef": 52,
+      "magDef": 64,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3156,
+    "name": "qiuka",
+    "displayName": "裘卡",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 73,
+      "phyAtk": 93,
+      "magAtk": 83,
+      "phyDef": 65,
+      "magDef": 81,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3157,
+    "name": "huakuifenghou",
+    "displayName": "花魁蜂后",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 145,
+      "phyAtk": 54,
+      "magAtk": 49,
+      "phyDef": 45,
+      "magDef": 45,
+      "spd": 44
+    }
+  },
+  {
+    "id": 3158,
+    "name": "kudouwumao",
+    "displayName": "武斗酷猫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 127,
+      "phyAtk": 115,
+      "magAtk": 115,
+      "phyDef": 113,
+      "magDef": 119,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3161,
+    "name": "xiaoxiaoyutu",
+    "displayName": "春团",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 48,
+      "phyAtk": 51,
+      "magAtk": 57,
+      "phyDef": 65,
+      "magDef": 57,
+      "spd": 63
+    }
+  },
+  {
+    "id": 3162,
+    "name": "chuntuxiaozi",
+    "displayName": "春兔",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 63,
+      "phyAtk": 68,
+      "magAtk": 76,
+      "phyDef": 87,
+      "magDef": 77,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3165,
+    "name": "fudishou",
+    "displayName": "伏地兽",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 95,
+      "phyAtk": 56,
+      "magAtk": 25,
+      "phyDef": 70,
+      "magDef": 41,
+      "spd": 51
+    }
+  },
+  {
+    "id": 3166,
+    "name": "shiyishou",
+    "displayName": "贪食鼹",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 126,
+      "phyAtk": 74,
+      "magAtk": 33,
+      "phyDef": 94,
+      "magDef": 54,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3167,
+    "name": "wanzuishou",
+    "displayName": "巨噬针鼹",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 158,
+      "phyAtk": 93,
+      "magAtk": 41,
+      "phyDef": 117,
+      "magDef": 68,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3168,
+    "name": "abu",
+    "displayName": "阿布",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 86,
+      "phyAtk": 100,
+      "magAtk": 100,
+      "phyDef": 77,
+      "magDef": 77,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3169,
+    "name": "chaonengabu",
+    "displayName": "超能阿布",
+    "mainType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 108,
+      "phyAtk": 124,
+      "magAtk": 124,
+      "phyDef": 96,
+      "magDef": 96,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3170,
+    "name": "xiaoshitou",
+    "displayName": "石石",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 76,
+      "phyAtk": 79,
+      "magAtk": 79,
+      "phyDef": 101,
+      "magDef": 56,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3171,
+    "name": "julingshi",
+    "displayName": "巨灵石",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 95,
+      "phyAtk": 99,
+      "magAtk": 99,
+      "phyDef": 126,
+      "magDef": 70,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3172,
+    "name": "xuedouding",
+    "displayName": "雪豆丁",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 97,
+      "phyAtk": 104,
+      "magAtk": 47,
+      "phyDef": 83,
+      "magDef": 62,
+      "spd": 36
+    }
+  },
+  {
+    "id": 3173,
+    "name": "xuemanren",
+    "displayName": "雪蛮人",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 130,
+      "phyAtk": 139,
+      "magAtk": 63,
+      "phyDef": 111,
+      "magDef": 83,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3174,
+    "name": "xuejuren",
+    "displayName": "雪巨人",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 162,
+      "phyAtk": 174,
+      "magAtk": 79,
+      "phyDef": 139,
+      "magDef": 104,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3175,
+    "name": "kakayumao",
+    "displayName": "咔咔羽毛",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 58,
+      "phyAtk": 68,
+      "magAtk": 66,
+      "phyDef": 61,
+      "magDef": 53,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3176,
+    "name": "kakaque",
+    "displayName": "咔咔雀",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 78,
+      "phyAtk": 91,
+      "magAtk": 88,
+      "phyDef": 81,
+      "magDef": 71,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3177,
+    "name": "kakaniao",
+    "displayName": "咔咔鸟",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 114,
+      "magAtk": 110,
+      "phyDef": 101,
+      "magDef": 89,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3178,
+    "name": "judulangzhu",
+    "displayName": "矮脚爬爬",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 80,
+      "phyAtk": 117,
+      "magAtk": 110,
+      "phyDef": 74,
+      "magDef": 59,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3179,
+    "name": "emolangzhu",
+    "displayName": "恶魔红钻",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 100,
+      "phyAtk": 147,
+      "magAtk": 137,
+      "phyDef": 93,
+      "magDef": 74,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3180,
+    "name": "xiaopaersasi",
+    "displayName": "小帕尔",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 78,
+      "phyAtk": 76,
+      "magAtk": 34,
+      "phyDef": 79,
+      "magDef": 52,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3181,
+    "name": "paersasi2",
+    "displayName": "帕尔萨斯",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 104,
+      "phyAtk": 102,
+      "magAtk": 46,
+      "phyDef": 105,
+      "magDef": 70,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3182,
+    "name": "longxipaer",
+    "displayName": "龙息帕尔",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 130,
+      "phyAtk": 127,
+      "magAtk": 57,
+      "phyDef": 131,
+      "magDef": 87,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3183,
+    "name": "guiyankungchong",
+    "displayName": "瑰眼仔",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 59,
+      "magAtk": 60,
+      "phyDef": 59,
+      "magDef": 59,
+      "spd": 57
+    }
+  },
+  {
+    "id": 3184,
+    "name": "erlingguimei",
+    "displayName": "耳翎瑰魅",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 130,
+      "phyAtk": 78,
+      "magAtk": 80,
+      "phyDef": 79,
+      "magDef": 79,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3185,
+    "name": "jumoxiechong",
+    "displayName": "邪眼巨魔",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 162,
+      "phyAtk": 98,
+      "magAtk": 99,
+      "phyDef": 99,
+      "magDef": 99,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3188,
+    "name": "late",
+    "displayName": "拉特",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 67,
+      "phyAtk": 80,
+      "magAtk": 80,
+      "phyDef": 62,
+      "magDef": 78,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3189,
+    "name": "kula",
+    "displayName": "酷拉",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 83,
+      "phyAtk": 100,
+      "magAtk": 100,
+      "phyDef": 78,
+      "magDef": 97,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3190,
+    "name": "dianmiemie",
+    "displayName": "电咩咩",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 47,
+      "phyAtk": 49,
+      "magAtk": 49,
+      "phyDef": 55,
+      "magDef": 57,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3191,
+    "name": "fenmiemie",
+    "displayName": "粉咩咩",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 62,
+      "phyAtk": 66,
+      "magAtk": 66,
+      "phyDef": 73,
+      "magDef": 76,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3192,
+    "name": "dianqiumiemie",
+    "displayName": "电球咩咩",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 78,
+      "phyAtk": 82,
+      "magAtk": 82,
+      "phyDef": 91,
+      "magDef": 95,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3193,
+    "name": "xiaoxingguang",
+    "displayName": "小星光",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 60,
+      "phyAtk": 81,
+      "magAtk": 85,
+      "phyDef": 72,
+      "magDef": 88,
+      "spd": 108
+    }
+  },
+  {
+    "id": 3194,
+    "name": "xingguangsh",
+    "displayName": "星光狮",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 75,
+      "phyAtk": 101,
+      "magAtk": 106,
+      "phyDef": 90,
+      "magDef": 110,
+      "spd": 135
+    }
+  },
+  {
+    "id": 3195,
+    "name": "shandianhuan",
+    "displayName": "闪电环",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 64,
+      "phyAtk": 49,
+      "magAtk": 49,
+      "phyDef": 51,
+      "magDef": 50,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3196,
+    "name": "beishangdianhuan",
+    "displayName": "刺电环",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 85,
+      "phyAtk": 65,
+      "magAtk": 65,
+      "phyDef": 68,
+      "magDef": 67,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3197,
+    "name": "tongkudianhuan",
+    "displayName": "荆棘电环",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 106,
+      "phyAtk": 81,
+      "magAtk": 81,
+      "phyDef": 85,
+      "magDef": 84,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3198,
+    "name": "fenfenxing",
+    "displayName": "粉粉星",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 93,
+      "phyAtk": 54,
+      "magAtk": 102,
+      "phyDef": 57,
+      "magDef": 101,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3199,
+    "name": "xiaopiqiu",
+    "displayName": "小皮球",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 116,
+      "phyAtk": 68,
+      "magAtk": 127,
+      "phyDef": 71,
+      "magDef": 126,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3200,
+    "name": "jixiefangfang",
+    "displayName": "机械方方",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 62,
+      "phyAtk": 81,
+      "magAtk": 32,
+      "phyDef": 76,
+      "magDef": 60,
+      "spd": 51
+    }
+  },
+  {
+    "id": 3201,
+    "name": "duocaifangfang",
+    "displayName": "多彩方方",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 82,
+      "phyAtk": 108,
+      "magAtk": 43,
+      "phyDef": 101,
+      "magDef": 80,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3202,
+    "name": "lifangren",
+    "displayName": "立方人",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 103,
+      "phyAtk": 135,
+      "magAtk": 54,
+      "phyDef": 127,
+      "magDef": 101,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3203,
+    "name": "beise",
+    "displayName": "贝瑟",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 79,
+      "phyAtk": 46,
+      "magAtk": 78,
+      "phyDef": 51,
+      "magDef": 98,
+      "spd": 33
+    }
+  },
+  {
+    "id": 3204,
+    "name": "beijiaer",
+    "displayName": "贝加尔",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 105,
+      "phyAtk": 61,
+      "magAtk": 104,
+      "phyDef": 68,
+      "magDef": 130,
+      "spd": 44
+    }
+  },
+  {
+    "id": 3205,
+    "name": "beigusi",
+    "displayName": "贝古斯",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 132,
+      "phyAtk": 76,
+      "magAtk": 130,
+      "phyDef": 85,
+      "magDef": 163,
+      "spd": 55
+    }
+  },
+  {
+    "id": 3206,
+    "name": "duoxi",
+    "displayName": "多西",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 64,
+      "phyAtk": 73,
+      "magAtk": 26,
+      "phyDef": 82,
+      "magDef": 70,
+      "spd": 30
+    }
+  },
+  {
+    "id": 3207,
+    "name": "kuduoxi",
+    "displayName": "库多西",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 85,
+      "phyAtk": 98,
+      "magAtk": 34,
+      "phyDef": 109,
+      "magDef": 93,
+      "spd": 40
+    }
+  },
+  {
+    "id": 3208,
+    "name": "boduoxi",
+    "displayName": "波多西",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 106,
+      "phyAtk": 122,
+      "magAtk": 43,
+      "phyDef": 136,
+      "magDef": 116,
+      "spd": 50
+    }
+  },
+  {
+    "id": 3209,
+    "name": "xiaoyilong",
+    "displayName": "小翼龙",
+    "mainType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 66,
+      "phyAtk": 91,
+      "magAtk": 24,
+      "phyDef": 73,
+      "magDef": 63,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3210,
+    "name": "yilong",
+    "displayName": "翼龙",
+    "mainType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 83,
+      "phyAtk": 114,
+      "magAtk": 31,
+      "phyDef": 91,
+      "magDef": 79,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3211,
+    "name": "yileilong",
+    "displayName": "伊雷龙",
+    "mainType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 73,
+      "magAtk": 152,
+      "phyDef": 55,
+      "magDef": 79,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3215,
+    "name": "haibaozhanshi",
+    "displayName": "海豹战士",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 72,
+      "phyAtk": 91,
+      "magAtk": 87,
+      "phyDef": 89,
+      "magDef": 62,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3216,
+    "name": "haibaochuangzhang",
+    "displayName": "海豹船长",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 90,
+      "phyAtk": 113,
+      "magAtk": 109,
+      "phyDef": 111,
+      "magDef": 77,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3217,
+    "name": "jianfeimao",
+    "displayName": "呼拉猫",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 80,
+      "phyAtk": 91,
+      "magAtk": 41,
+      "phyDef": 53,
+      "magDef": 34,
+      "spd": 74
+    }
+  },
+  {
+    "id": 3218,
+    "name": "jiroumao",
+    "displayName": "增肌猫",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 106,
+      "phyAtk": 121,
+      "magAtk": 55,
+      "phyDef": 70,
+      "magDef": 46,
+      "spd": 99
+    }
+  },
+  {
+    "id": 3219,
+    "name": "baolizhanmao",
+    "displayName": "健猫教练",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 133,
+      "phyAtk": 151,
+      "magAtk": 69,
+      "phyDef": 88,
+      "magDef": 57,
+      "spd": 123
+    }
+  },
+  {
+    "id": 3225,
+    "name": "guzhongshe",
+    "displayName": "古钟蛇",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 85,
+      "phyAtk": 63,
+      "magAtk": 63,
+      "phyDef": 64,
+      "magDef": 91,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3226,
+    "name": "hanyinshe",
+    "displayName": "寒音蛇",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 106,
+      "phyAtk": 79,
+      "magAtk": 79,
+      "phyDef": 80,
+      "magDef": 114,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3227,
+    "name": "juhuali",
+    "displayName": "菊花梨",
+    "mainType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 106,
+      "phyAtk": 49,
+      "magAtk": 116,
+      "phyDef": 77,
+      "magDef": 115,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3234,
+    "name": "qianxianmuou",
+    "displayName": "牵线木偶",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 89,
+      "phyAtk": 73,
+      "magAtk": 77,
+      "phyDef": 66,
+      "magDef": 95,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3235,
+    "name": "shuaishuaimoou",
+    "displayName": "帅帅魔偶",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 111,
+      "phyAtk": 91,
+      "magAtk": 96,
+      "phyDef": 83,
+      "magDef": 119,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3236,
+    "name": "chaonengqiuqiu",
+    "displayName": "超能球球",
+    "mainType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 89,
+      "phyAtk": 93,
+      "magAtk": 102,
+      "phyDef": 76,
+      "magDef": 102,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3237,
+    "name": "xiaosongmao",
+    "displayName": "小怂猫",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 74,
+      "phyAtk": 106,
+      "magAtk": 101,
+      "phyDef": 89,
+      "magDef": 76,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3238,
+    "name": "numusongmao",
+    "displayName": "怒目怂猫",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 92,
+      "phyAtk": 132,
+      "magAtk": 126,
+      "phyDef": 111,
+      "magDef": 95,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3239,
+    "name": "kukugu",
+    "displayName": "哭哭菇",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 74,
+      "phyAtk": 38,
+      "magAtk": 41,
+      "phyDef": 30,
+      "magDef": 60,
+      "spd": 36
+    }
+  },
+  {
+    "id": 3240,
+    "name": "buxugu",
+    "displayName": "怖须菇",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 99,
+      "phyAtk": 50,
+      "magAtk": 55,
+      "phyDef": 40,
+      "magDef": 80,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3241,
+    "name": "bukugu",
+    "displayName": "怖哭菇",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 124,
+      "phyAtk": 63,
+      "magAtk": 69,
+      "phyDef": 50,
+      "magDef": 100,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3244,
+    "name": "rongrong",
+    "displayName": "绒绒",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 58,
+      "phyAtk": 42,
+      "magAtk": 44,
+      "phyDef": 49,
+      "magDef": 80,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3245,
+    "name": "xiaorongjian",
+    "displayName": "小绒茧",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 77,
+      "phyAtk": 56,
+      "magAtk": 58,
+      "phyDef": 65,
+      "magDef": 106,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3246,
+    "name": "rongxianzi",
+    "displayName": "绒仙子",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 96,
+      "phyAtk": 71,
+      "magAtk": 73,
+      "phyDef": 81,
+      "magDef": 133,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3250,
+    "name": "xiaoyu",
+    "displayName": "小鹬",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 56,
+      "phyAtk": 38,
+      "magAtk": 38,
+      "phyDef": 67,
+      "magDef": 52,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3251,
+    "name": "bimuyu",
+    "displayName": "鄙目鹬",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 75,
+      "phyAtk": 51,
+      "magAtk": 51,
+      "phyDef": 90,
+      "magDef": 70,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3252,
+    "name": "gaojiaoyu",
+    "displayName": "高脚鹬",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 94,
+      "phyAtk": 63,
+      "magAtk": 63,
+      "phyDef": 112,
+      "magDef": 87,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3255,
+    "name": "benboshu",
+    "displayName": "奔波鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 72,
+      "phyAtk": 37,
+      "magAtk": 93,
+      "phyDef": 67,
+      "magDef": 90,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3256,
+    "name": "liulangshu",
+    "displayName": "流浪鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 46,
+      "magAtk": 116,
+      "phyDef": 84,
+      "magDef": 112,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3257,
+    "name": "bulusi",
+    "displayName": "布鲁斯",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 44,
+      "phyAtk": 60,
+      "magAtk": 16,
+      "phyDef": 68,
+      "magDef": 53,
+      "spd": 54
+    }
+  },
+  {
+    "id": 3258,
+    "name": "xuedingbulusi",
+    "displayName": "雪顶布鲁斯",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 58,
+      "phyAtk": 81,
+      "magAtk": 22,
+      "phyDef": 91,
+      "magDef": 70,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3259,
+    "name": "bingzuanbulusi",
+    "displayName": "冰钻布鲁斯",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 73,
+      "phyAtk": 101,
+      "magAtk": 27,
+      "phyDef": 114,
+      "magDef": 88,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3262,
+    "name": "huhuzhu",
+    "displayName": "呼呼猪",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 98,
+      "phyAtk": 95,
+      "magAtk": 33,
+      "phyDef": 88,
+      "magDef": 81,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3263,
+    "name": "liaoyazhu",
+    "displayName": "獠牙猪",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 123,
+      "phyAtk": 119,
+      "magAtk": 41,
+      "phyDef": 110,
+      "magDef": 101,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3264,
+    "name": "xieefangchui",
+    "displayName": "卡波",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 98,
+      "phyAtk": 107,
+      "magAtk": 40,
+      "phyDef": 60,
+      "magDef": 48,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3265,
+    "name": "hunshuifangchui",
+    "displayName": "卡拉波斯",
+    "mainType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 123,
+      "phyAtk": 134,
+      "magAtk": 50,
+      "phyDef": 75,
+      "magDef": 60,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3266,
+    "name": "danxiaomanyu",
+    "displayName": "胆小鳗鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 68,
+      "phyAtk": 92,
+      "magAtk": 92,
+      "phyDef": 83,
+      "magDef": 90,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3267,
+    "name": "shandianmanyu",
+    "displayName": "闪电鳗鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 85,
+      "phyAtk": 115,
+      "magAtk": 115,
+      "phyDef": 104,
+      "magDef": 112,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3268,
+    "name": "datougulong",
+    "displayName": "大头骨龙",
+    "mainType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 96,
+      "phyAtk": 109,
+      "magAtk": 40,
+      "phyDef": 84,
+      "magDef": 65,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3269,
+    "name": "jimiegulong",
+    "displayName": "寂灭骨龙",
+    "mainType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 120,
+      "phyAtk": 137,
+      "magAtk": 50,
+      "phyDef": 104,
+      "magDef": 81,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3276,
+    "name": "lvyiniao",
+    "displayName": "绿翼鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 52,
+      "phyAtk": 68,
+      "magAtk": 20,
+      "phyDef": 56,
+      "magDef": 53,
+      "spd": 81
+    }
+  },
+  {
+    "id": 3277,
+    "name": "moyiniao",
+    "displayName": "魔翼鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 70,
+      "phyAtk": 91,
+      "magAtk": 27,
+      "phyDef": 75,
+      "magDef": 70,
+      "spd": 108
+    }
+  },
+  {
+    "id": 3278,
+    "name": "mojuanniao",
+    "displayName": "魔眷鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 87,
+      "phyAtk": 113,
+      "magAtk": 34,
+      "phyDef": 94,
+      "magDef": 88,
+      "spd": 135
+    }
+  },
+  {
+    "id": 3279,
+    "name": "xuerongniao_chun",
+    "displayName": "雪绒鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 56,
+      "phyAtk": 77,
+      "magAtk": 26,
+      "phyDef": 58,
+      "magDef": 49,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3280,
+    "name": "xuerongniao_xia",
+    "displayName": "雪绒鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 59,
+      "phyAtk": 80,
+      "magAtk": 32,
+      "phyDef": 58,
+      "magDef": 41,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3281,
+    "name": "xuerongniao_qiu",
+    "displayName": "雪绒鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 54,
+      "phyAtk": 76,
+      "magAtk": 25,
+      "phyDef": 59,
+      "magDef": 51,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3282,
+    "name": "dongyuque_chun",
+    "displayName": "冬羽雀",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 75,
+      "phyAtk": 103,
+      "magAtk": 35,
+      "phyDef": 78,
+      "magDef": 65,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3283,
+    "name": "dongyuque_xia",
+    "displayName": "冬羽雀",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 79,
+      "phyAtk": 107,
+      "magAtk": 43,
+      "phyDef": 77,
+      "magDef": 55,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3284,
+    "name": "dongyuque_qiu",
+    "displayName": "冬羽雀",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 72,
+      "phyAtk": 102,
+      "magAtk": 34,
+      "phyDef": 78,
+      "magDef": 68,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3285,
+    "name": "lanniao_chun",
+    "displayName": "岚鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 93,
+      "phyAtk": 128,
+      "magAtk": 44,
+      "phyDef": 97,
+      "magDef": 81,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3286,
+    "name": "lanniao_xia",
+    "displayName": "岚鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 99,
+      "phyAtk": 133,
+      "magAtk": 54,
+      "phyDef": 96,
+      "magDef": 69,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3287,
+    "name": "lanniao_qiu",
+    "displayName": "岚鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 127,
+      "magAtk": 42,
+      "phyDef": 98,
+      "magDef": 85,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3289,
+    "name": "diudiu_shamo",
+    "displayName": "丢丢",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 44,
+      "phyAtk": 42,
+      "magAtk": 12,
+      "phyDef": 55,
+      "magDef": 43,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3290,
+    "name": "diudiu_xueshan",
+    "displayName": "丢丢",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 46,
+      "phyAtk": 41,
+      "magAtk": 8,
+      "phyDef": 48,
+      "magDef": 44,
+      "spd": 81
+    }
+  },
+  {
+    "id": 3292,
+    "name": "kakachong_shamo",
+    "displayName": "卡卡虫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 58,
+      "phyAtk": 56,
+      "magAtk": 16,
+      "phyDef": 74,
+      "magDef": 57,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3293,
+    "name": "kakachong_xueshan",
+    "displayName": "卡卡虫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 62,
+      "phyAtk": 54,
+      "magAtk": 11,
+      "phyDef": 64,
+      "magDef": 58,
+      "spd": 108
+    }
+  },
+  {
+    "id": 3295,
+    "name": "kawachong_shamo",
+    "displayName": "卡瓦重",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 73,
+      "phyAtk": 70,
+      "magAtk": 20,
+      "phyDef": 92,
+      "magDef": 71,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3296,
+    "name": "kawachong_xueshan",
+    "displayName": "卡瓦重",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 77,
+      "phyAtk": 68,
+      "magAtk": 14,
+      "phyDef": 79,
+      "magDef": 73,
+      "spd": 135
+    }
+  },
+  {
+    "id": 3297,
+    "name": "bengbengzhongzi_caiyuqiu",
+    "displayName": "蹦蹦种子",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 62,
+      "phyAtk": 61,
+      "magAtk": 66,
+      "phyDef": 44,
+      "magDef": 63,
+      "spd": 51
+    }
+  },
+  {
+    "id": 3298,
+    "name": "bengbengzhongzi_duanmaoqiu",
+    "displayName": "蹦蹦种子",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 57,
+      "phyAtk": 62,
+      "magAtk": 66,
+      "phyDef": 48,
+      "magDef": 67,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3299,
+    "name": "bengbengzhongzi_xiangyaqiu",
+    "displayName": "蹦蹦种子",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 59,
+      "phyAtk": 60,
+      "magAtk": 66,
+      "phyDef": 44,
+      "magDef": 63,
+      "spd": 54
+    }
+  },
+  {
+    "id": 3300,
+    "name": "bengbengcao_caiyuqiu",
+    "displayName": "蹦蹦草",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 83,
+      "phyAtk": 81,
+      "magAtk": 87,
+      "phyDef": 59,
+      "magDef": 84,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3301,
+    "name": "bengbengcao_duanmaoqiu",
+    "displayName": "蹦蹦草",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 76,
+      "phyAtk": 82,
+      "magAtk": 87,
+      "phyDef": 64,
+      "magDef": 90,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3302,
+    "name": "bengbengcao_xiangyaqiu",
+    "displayName": "蹦蹦草",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 79,
+      "phyAtk": 80,
+      "magAtk": 88,
+      "phyDef": 59,
+      "magDef": 84,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3303,
+    "name": "bengbenghua_caiyuqiu",
+    "displayName": "蹦蹦花",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 103,
+      "phyAtk": 101,
+      "magAtk": 109,
+      "phyDef": 73,
+      "magDef": 105,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3304,
+    "name": "bengbenghua_duanmaoqiu",
+    "displayName": "蹦蹦花",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 95,
+      "phyAtk": 103,
+      "magAtk": 109,
+      "phyDef": 80,
+      "magDef": 112,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3305,
+    "name": "bengbenghua_xiangyaqiu",
+    "displayName": "蹦蹦花",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 99,
+      "phyAtk": 100,
+      "magAtk": 110,
+      "phyDef": 73,
+      "magDef": 106,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3307,
+    "name": "kuangjingchong",
+    "displayName": "矿晶虫",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 79,
+      "phyAtk": 77,
+      "magAtk": 81,
+      "phyDef": 102,
+      "magDef": 75,
+      "spd": 52
+    }
+  },
+  {
+    "id": 3308,
+    "name": "jingshiwo",
+    "displayName": "晶石蜗",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 99,
+      "phyAtk": 96,
+      "magAtk": 101,
+      "phyDef": 128,
+      "magDef": 94,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3309,
+    "name": "xijiaoniao",
+    "displayName": "犀角鸟",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 63,
+      "phyAtk": 88,
+      "magAtk": 40,
+      "phyDef": 67,
+      "magDef": 44,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3310,
+    "name": "guangjiaoshou",
+    "displayName": "光纤兽",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 83,
+      "phyAtk": 117,
+      "magAtk": 54,
+      "phyDef": 90,
+      "magDef": 58,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3311,
+    "name": "jiguangqianshou",
+    "displayName": "疾光千兽",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 104,
+      "phyAtk": 146,
+      "magAtk": 67,
+      "phyDef": 112,
+      "magDef": 73,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3315,
+    "name": "xiaoshulan",
+    "displayName": "小鼠獭",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "stats": {
+      "hp": 73,
+      "phyAtk": 57,
+      "magAtk": 57,
+      "phyDef": 60,
+      "magDef": 60,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3316,
+    "name": "dashulan",
+    "displayName": "燕尾獭",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 77,
+      "magAtk": 77,
+      "phyDef": 81,
+      "magDef": 81,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3317,
+    "name": "jushulan",
+    "displayName": "卷胡巨獭",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "stats": {
+      "hp": 121,
+      "phyAtk": 96,
+      "magAtk": 96,
+      "phyDef": 101,
+      "magDef": 101,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3319,
+    "name": "fenxingzai",
+    "displayName": "粉星仔",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 80,
+      "phyAtk": 63,
+      "magAtk": 119,
+      "phyDef": 58,
+      "magDef": 102,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3320,
+    "name": "fenerxingtu",
+    "displayName": "粉耳星兔",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 100,
+      "phyAtk": 79,
+      "magAtk": 148,
+      "phyDef": 73,
+      "magDef": 127,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3330,
+    "name": "haikuichong",
+    "displayName": "海盔虫",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 71,
+      "phyAtk": 25,
+      "magAtk": 59,
+      "phyDef": 46,
+      "magDef": 66,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3331,
+    "name": "cikuichong",
+    "displayName": "刺盔虫",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 94,
+      "phyAtk": 33,
+      "magAtk": 79,
+      "phyDef": 61,
+      "magDef": 88,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3332,
+    "name": "qianjikui",
+    "displayName": "千棘盔",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 118,
+      "phyAtk": 41,
+      "magAtk": 99,
+      "phyDef": 76,
+      "magDef": 111,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3333,
+    "name": "xuewawa",
+    "displayName": "雪娃娃",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 56,
+      "phyAtk": 67,
+      "magAtk": 67,
+      "phyDef": 63,
+      "magDef": 63,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3334,
+    "name": "bingfengyuanling",
+    "displayName": "冰封怨灵",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 75,
+      "phyAtk": 90,
+      "magAtk": 90,
+      "phyDef": 84,
+      "magDef": 84,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3335,
+    "name": "xueling",
+    "displayName": "雪灵",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 94,
+      "phyAtk": 112,
+      "magAtk": 112,
+      "phyDef": 105,
+      "magDef": 105,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3344,
+    "name": "huaguitianer",
+    "displayName": "乖乖鹄",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 75,
+      "phyAtk": 57,
+      "magAtk": 52,
+      "phyDef": 83,
+      "magDef": 58,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3345,
+    "name": "lanzhutianer",
+    "displayName": "蓝珠天鹅",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 100,
+      "phyAtk": 76,
+      "magAtk": 69,
+      "phyDef": 110,
+      "magDef": 78,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3346,
+    "name": "cuidingfuren",
+    "displayName": "翠顶夫人",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 125,
+      "phyAtk": 95,
+      "magAtk": 86,
+      "phyDef": 138,
+      "magDef": 97,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3350,
+    "name": "huoguangxiunv",
+    "displayName": "红绒十字",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 112,
+      "phyAtk": 47,
+      "magAtk": 122,
+      "phyDef": 100,
+      "magDef": 127,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3357,
+    "name": "diandongchangjinglu",
+    "displayName": "电动长颈鹿",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 55,
+      "phyAtk": 59,
+      "magAtk": 20,
+      "phyDef": 65,
+      "magDef": 47,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3358,
+    "name": "benlelu",
+    "displayName": "奔乐鹿",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 73,
+      "phyAtk": 79,
+      "magAtk": 27,
+      "phyDef": 86,
+      "magDef": 63,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3359,
+    "name": "jueshilu",
+    "displayName": "爵士鹿",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 92,
+      "phyAtk": 99,
+      "magAtk": 34,
+      "phyDef": 108,
+      "magDef": 79,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3367,
+    "name": "duudbao",
+    "displayName": "嘟嘟煲",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 110,
+      "phyAtk": 29,
+      "magAtk": 82,
+      "phyDef": 71,
+      "magDef": 83,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3368,
+    "name": "duudguo",
+    "displayName": "嘟嘟锅",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 137,
+      "phyAtk": 36,
+      "magAtk": 102,
+      "phyDef": 89,
+      "magDef": 104,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3369,
+    "name": "youxingguang",
+    "displayName": "幽星光",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 49,
+      "phyAtk": 21,
+      "magAtk": 63,
+      "phyDef": 48,
+      "magDef": 63,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3370,
+    "name": "yaoxingguang",
+    "displayName": "曜星光",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 65,
+      "phyAtk": 28,
+      "magAtk": 84,
+      "phyDef": 64,
+      "magDef": 84,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3371,
+    "name": "muxingchen",
+    "displayName": "暮星辰",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 81,
+      "phyAtk": 35,
+      "magAtk": 106,
+      "phyDef": 80,
+      "magDef": 105,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3372,
+    "name": "chuntudalao",
+    "displayName": "春花兔",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 79,
+      "phyAtk": 85,
+      "magAtk": 95,
+      "phyDef": 103,
+      "magDef": 90,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3373,
+    "name": "doudou",
+    "displayName": "逗逗",
+    "mainType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 48,
+      "phyAtk": 70,
+      "magAtk": 64,
+      "phyDef": 68,
+      "magDef": 68,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3374,
+    "name": "qiqiumao",
+    "displayName": "气球猫",
+    "mainType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 64,
+      "phyAtk": 93,
+      "magAtk": 86,
+      "phyDef": 90,
+      "magDef": 90,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3375,
+    "name": "qimengmi",
+    "displayName": "梦想三三",
+    "mainType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 81,
+      "phyAtk": 117,
+      "magAtk": 107,
+      "phyDef": 113,
+      "magDef": 113,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3376,
+    "name": "xuanyanchong",
+    "displayName": "旋叶虫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 56,
+      "phyAtk": 15,
+      "magAtk": 65,
+      "phyDef": 63,
+      "magDef": 55,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3377,
+    "name": "fenggunmuchong",
+    "displayName": "风滚暮虫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 93,
+      "phyAtk": 24,
+      "magAtk": 109,
+      "phyDef": 105,
+      "magDef": 91,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3378,
+    "name": "guguding",
+    "displayName": "菇菇丁",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 89,
+      "phyAtk": 61,
+      "magAtk": 57,
+      "phyDef": 70,
+      "magDef": 57,
+      "spd": 42
+    }
+  },
+  {
+    "id": 3379,
+    "name": "duoguding",
+    "displayName": "多菇丁",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 119,
+      "phyAtk": 81,
+      "magAtk": 76,
+      "phyDef": 93,
+      "magDef": 76,
+      "spd": 56
+    }
+  },
+  {
+    "id": 3380,
+    "name": "jiuyougu",
+    "displayName": "九幽菇",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 149,
+      "phyAtk": 102,
+      "magAtk": 95,
+      "phyDef": 116,
+      "magDef": 95,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3381,
+    "name": "shenlanjing",
+    "displayName": "深蓝鲸",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 129,
+      "phyAtk": 40,
+      "magAtk": 115,
+      "phyDef": 119,
+      "magDef": 135,
+      "spd": 50
+    }
+  },
+  {
+    "id": 3382,
+    "name": "shungdengyu",
+    "displayName": "双灯鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 102,
+      "phyAtk": 55,
+      "magAtk": 111,
+      "phyDef": 57,
+      "magDef": 93,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3383,
+    "name": "lidengyu",
+    "displayName": "利灯鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 128,
+      "phyAtk": 68,
+      "magAtk": 138,
+      "phyDef": 71,
+      "magDef": 116,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3384,
+    "name": "doudingyu",
+    "displayName": "豆丁鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "stats": {
+      "hp": 45,
+      "phyAtk": 70,
+      "magAtk": 74,
+      "phyDef": 67,
+      "magDef": 70,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3385,
+    "name": "kuaiqiyu",
+    "displayName": "快鳍鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "stats": {
+      "hp": 60,
+      "phyAtk": 93,
+      "magAtk": 99,
+      "phyDef": 89,
+      "magDef": 93,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3386,
+    "name": "yulong",
+    "displayName": "龙鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "stats": {
+      "hp": 75,
+      "phyAtk": 116,
+      "magAtk": 123,
+      "phyDef": 112,
+      "magDef": 116,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3392,
+    "name": "fanque",
+    "displayName": "凡雀",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 47,
+      "phyAtk": 77,
+      "magAtk": 74,
+      "phyDef": 52,
+      "magDef": 52,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3393,
+    "name": "zilingying",
+    "displayName": "紫翎鹰",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 63,
+      "phyAtk": 103,
+      "magAtk": 99,
+      "phyDef": 69,
+      "magDef": 69,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3394,
+    "name": "fanying",
+    "displayName": "凡鹰",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 78,
+      "phyAtk": 128,
+      "magAtk": 124,
+      "phyDef": 86,
+      "magDef": 86,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3395,
+    "name": "liao",
+    "displayName": "里奥",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 79,
+      "phyAtk": 65,
+      "magAtk": 65,
+      "phyDef": 77,
+      "magDef": 50,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3396,
+    "name": "lingyuyongshi",
+    "displayName": "灵羽勇士",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 105,
+      "phyAtk": 87,
+      "magAtk": 87,
+      "phyDef": 102,
+      "magDef": 66,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3397,
+    "name": "shengyuyiwang",
+    "displayName": "圣羽翼王",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 132,
+      "phyAtk": 109,
+      "magAtk": 109,
+      "phyDef": 128,
+      "magDef": 83,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3398,
+    "name": "xingchenchong",
+    "displayName": "星尘虫",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 49,
+      "phyAtk": 47,
+      "magAtk": 47,
+      "phyDef": 46,
+      "magDef": 58,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3399,
+    "name": "luoxingchong",
+    "displayName": "落星虫",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 65,
+      "phyAtk": 62,
+      "magAtk": 62,
+      "phyDef": 61,
+      "magDef": 77,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3400,
+    "name": "yunxingchong",
+    "displayName": "陨星虫",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 81,
+      "phyAtk": 78,
+      "magAtk": 78,
+      "phyDef": 76,
+      "magDef": 96,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3405,
+    "name": "youmingzhiyan",
+    "displayName": "幽冥眼",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 92,
+      "phyAtk": 50,
+      "magAtk": 120,
+      "phyDef": 98,
+      "magDef": 135,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3406,
+    "name": "tita",
+    "displayName": "缇塔",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 73,
+      "phyAtk": 99,
+      "magAtk": 38,
+      "phyDef": 98,
+      "magDef": 74,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3407,
+    "name": "shengbotita",
+    "displayName": "声波缇塔",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 92,
+      "phyAtk": 124,
+      "magAtk": 48,
+      "phyDef": 122,
+      "magDef": 92,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3408,
+    "name": "chilunxiaozi",
+    "displayName": "齿轮小子",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 43,
+      "magAtk": 111,
+      "phyDef": 72,
+      "magDef": 89,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3409,
+    "name": "jijiaxiaozi",
+    "displayName": "机甲小子",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 113,
+      "phyAtk": 53,
+      "magAtk": 139,
+      "phyDef": 90,
+      "magDef": 112,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3410,
+    "name": "quanzhagn1",
+    "displayName": "权杖-Ⅱ",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 82,
+      "phyAtk": 84,
+      "magAtk": 78,
+      "phyDef": 109,
+      "magDef": 109,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3411,
+    "name": "quanzhagn2",
+    "displayName": "权杖-V",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 103,
+      "phyAtk": 105,
+      "magAtk": 97,
+      "phyDef": 136,
+      "magDef": 136,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3412,
+    "name": "yinlanyalong",
+    "displayName": "伊兰亚龙",
+    "mainType": {
+      "id": 8,
+      "name": "Dragon",
+      "zh": "龙"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 112,
+      "phyAtk": 91,
+      "magAtk": 190,
+      "phyDef": 69,
+      "magDef": 99,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3416,
+    "name": "gedouxiaowu",
+    "displayName": "格斗小五",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 110,
+      "phyAtk": 105,
+      "magAtk": 105,
+      "phyDef": 110,
+      "magDef": 85,
+      "spd": 135
+    }
+  },
+  {
+    "id": 3417,
+    "name": "gedouxiaoliu",
+    "displayName": "格斗小六",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 76,
+      "phyAtk": 144,
+      "magAtk": 63,
+      "phyDef": 118,
+      "magDef": 88,
+      "spd": 150
+    }
+  },
+  {
+    "id": 3418,
+    "name": "gedouxiaoba",
+    "displayName": "格斗小八",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 136,
+      "phyAtk": 135,
+      "magAtk": 50,
+      "phyDef": 104,
+      "magDef": 84,
+      "spd": 66
+    }
+  },
+  {
+    "id": 3419,
+    "name": "lihaixiaoluo",
+    "displayName": "厉毒小萝",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 67,
+      "phyAtk": 64,
+      "magAtk": 17,
+      "phyDef": 81,
+      "magDef": 59,
+      "spd": 108
+    }
+  },
+  {
+    "id": 3420,
+    "name": "lihaixiuluo",
+    "displayName": "厉毒修萝",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 84,
+      "phyAtk": 80,
+      "magAtk": 21,
+      "phyDef": 101,
+      "magDef": 74,
+      "spd": 135
+    }
+  },
+  {
+    "id": 3430,
+    "name": "haizhizhi_bilanshanhu",
+    "displayName": "海枝枝",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 78,
+      "phyAtk": 58,
+      "magAtk": 148,
+      "phyDef": 96,
+      "magDef": 120,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3431,
+    "name": "haizhizhi_xinghuangbaihe",
+    "displayName": "海枝枝",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 91,
+      "phyAtk": 48,
+      "magAtk": 125,
+      "phyDef": 104,
+      "magDef": 129,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3432,
+    "name": "haizhizhi_yanghongshading",
+    "displayName": "海枝枝",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 62,
+      "magAtk": 136,
+      "phyDef": 84,
+      "magDef": 121,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3433,
+    "name": "haizhizhi_cuilvlunbu",
+    "displayName": "海枝枝",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 90,
+      "phyAtk": 53,
+      "magAtk": 135,
+      "phyDef": 92,
+      "magDef": 113,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3434,
+    "name": "xiaodianqie",
+    "displayName": "小电企鹅",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 75,
+      "phyAtk": 45,
+      "magAtk": 101,
+      "phyDef": 59,
+      "magDef": 87,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3435,
+    "name": "dianqie",
+    "displayName": "电企鹅",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 94,
+      "phyAtk": 56,
+      "magAtk": 126,
+      "phyDef": 73,
+      "magDef": 109,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3436,
+    "name": "chaizhachong",
+    "displayName": "柴渣虫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "stats": {
+      "hp": 108,
+      "phyAtk": 96,
+      "magAtk": 38,
+      "phyDef": 82,
+      "magDef": 58,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3437,
+    "name": "ranxinchong",
+    "displayName": "燃薪虫",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "stats": {
+      "hp": 135,
+      "phyAtk": 120,
+      "magAtk": 48,
+      "phyDef": 103,
+      "magDef": 73,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3438,
+    "name": "menhyou",
+    "displayName": "梦游",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 90,
+      "phyAtk": 40,
+      "magAtk": 106,
+      "phyDef": 60,
+      "magDef": 74,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3439,
+    "name": "mengyouyou",
+    "displayName": "梦悠悠",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 113,
+      "phyAtk": 50,
+      "magAtk": 133,
+      "phyDef": 75,
+      "magDef": 93,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3440,
+    "name": "mengyou_pink",
+    "displayName": "梦游",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 93,
+      "phyAtk": 44,
+      "magAtk": 110,
+      "phyDef": 56,
+      "magDef": 74,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3441,
+    "name": "mengyouyou_pink",
+    "displayName": "梦悠悠",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 117,
+      "phyAtk": 56,
+      "magAtk": 138,
+      "phyDef": 70,
+      "magDef": 92,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3442,
+    "name": "xiaoxingguang_yueguang",
+    "displayName": "小星光",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 64,
+      "phyAtk": 76,
+      "magAtk": 85,
+      "phyDef": 72,
+      "magDef": 96,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3443,
+    "name": "xingguangshi_yueguang",
+    "displayName": "星光狮",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "stats": {
+      "hp": 80,
+      "phyAtk": 95,
+      "magAtk": 107,
+      "phyDef": 90,
+      "magDef": 120,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3444,
+    "name": "pipaniao",
+    "displayName": "噼啪鸟",
+    "mainType": {
+      "id": 9,
+      "name": "Electric",
+      "zh": "电"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 78,
+      "phyAtk": 116,
+      "magAtk": 109,
+      "phyDef": 85,
+      "magDef": 85,
+      "spd": 145
+    }
+  },
+  {
+    "id": 3448,
+    "name": "jingshiwo_yidi3",
+    "displayName": "晶石蜗",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 94,
+      "phyAtk": 97,
+      "magAtk": 101,
+      "phyDef": 137,
+      "magDef": 91,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3449,
+    "name": "jingshiwo_yidi5",
+    "displayName": "晶石蜗",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 101,
+      "magAtk": 101,
+      "phyDef": 128,
+      "magDef": 91,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3450,
+    "name": "jingshiwo_yidi1",
+    "displayName": "晶石蜗",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 97,
+      "phyAtk": 97,
+      "magAtk": 101,
+      "phyDef": 132,
+      "magDef": 91,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3451,
+    "name": "jingshiwo_yidi2",
+    "displayName": "晶石蜗",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 99,
+      "phyAtk": 97,
+      "magAtk": 107,
+      "phyDef": 124,
+      "magDef": 91,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3452,
+    "name": "yajiji_jijiya",
+    "displayName": "鸭吉吉",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 130,
+      "phyAtk": 95,
+      "magAtk": 35,
+      "phyDef": 55,
+      "magDef": 45,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3453,
+    "name": "dengyidengya",
+    "displayName": "鸭吉吉",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 137,
+      "phyAtk": 35,
+      "magAtk": 94,
+      "phyDef": 46,
+      "magDef": 57,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3454,
+    "name": "dishu_xushui",
+    "displayName": "地鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 59,
+      "phyAtk": 71,
+      "magAtk": 23,
+      "phyDef": 61,
+      "magDef": 57,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3455,
+    "name": "dunshu_xushui",
+    "displayName": "遁鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 79,
+      "phyAtk": 94,
+      "magAtk": 30,
+      "phyDef": 82,
+      "magDef": 77,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3456,
+    "name": "dundishu_xushui",
+    "displayName": "遁地鼠",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 99,
+      "phyAtk": 118,
+      "magAtk": 38,
+      "phyDef": 102,
+      "magDef": 96,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3457,
+    "name": "yueyaxuexiong",
+    "displayName": "月牙雪熊",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 126,
+      "phyAtk": 97,
+      "magAtk": 39,
+      "phyDef": 141,
+      "magDef": 103,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3458,
+    "name": "shuangqiudingding_yingtaocaomei",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 107,
+      "phyAtk": 120,
+      "magAtk": 110,
+      "phyDef": 81,
+      "magDef": 96,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3459,
+    "name": "shuangqiudingding_yingtaomocha",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 113,
+      "phyAtk": 112,
+      "magAtk": 110,
+      "phyDef": 79,
+      "magDef": 92,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3460,
+    "name": "shuangqiudingding_lanmeiqiaokeli",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 114,
+      "phyAtk": 117,
+      "magAtk": 110,
+      "phyDef": 79,
+      "magDef": 92,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3461,
+    "name": "shuangqiudingding_lanmeicaomei",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 113,
+      "phyAtk": 109,
+      "magAtk": 100,
+      "phyDef": 90,
+      "magDef": 96,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3462,
+    "name": "shuangqiudingding_lanmeimocha",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 121,
+      "phyAtk": 100,
+      "magAtk": 101,
+      "phyDef": 86,
+      "magDef": 92,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3463,
+    "name": "shuangqiudingding_yangtaoqiaokeli",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 110,
+      "phyAtk": 116,
+      "magAtk": 120,
+      "phyDef": 73,
+      "magDef": 96,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3464,
+    "name": "shuangqiudingding_yangtaocaomei",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 108,
+      "phyAtk": 110,
+      "magAtk": 110,
+      "phyDef": 84,
+      "magDef": 99,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3465,
+    "name": "shuangqiudingding_yangtaomocha",
+    "displayName": "圣代甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 110,
+      "phyAtk": 107,
+      "magAtk": 110,
+      "phyDef": 82,
+      "magDef": 96,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3466,
+    "name": "xingyunlvzhe",
+    "displayName": "星云旅者",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 108,
+      "phyAtk": 67,
+      "magAtk": 147,
+      "phyDef": 51,
+      "magDef": 80,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3467,
+    "name": "xiaoshijiu_gaoshan",
+    "displayName": "小狮鹫",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 62,
+      "phyAtk": 66,
+      "magAtk": 32,
+      "phyDef": 62,
+      "magDef": 36,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3468,
+    "name": "shenshengshijiu_gaoshan",
+    "displayName": "神圣狮鹫",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 83,
+      "phyAtk": 88,
+      "magAtk": 42,
+      "phyDef": 82,
+      "magDef": 48,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3469,
+    "name": "huangjiashijiu_gaoshan",
+    "displayName": "皇家狮鹫",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 103,
+      "phyAtk": 110,
+      "magAtk": 53,
+      "phyDef": 103,
+      "magDef": 60,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3470,
+    "name": "huadie_youmingzhiyan",
+    "displayName": "化蝶",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 43,
+      "phyAtk": 42,
+      "magAtk": 42,
+      "phyDef": 67,
+      "magDef": 70,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3471,
+    "name": "huadie_miaomiao",
+    "displayName": "化蝶",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 49,
+      "phyAtk": 47,
+      "magAtk": 41,
+      "phyDef": 67,
+      "magDef": 67,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3472,
+    "name": "huadie_qilihua",
+    "displayName": "化蝶",
+    "mainType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 55,
+      "phyAtk": 46,
+      "magAtk": 44,
+      "phyDef": 62,
+      "magDef": 65,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3473,
+    "name": "buguake",
+    "displayName": "布瓜蝌",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 91,
+      "phyAtk": 84,
+      "magAtk": 35,
+      "phyDef": 81,
+      "magDef": 55,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3474,
+    "name": "shanganwa",
+    "displayName": "上岸蛙",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 114,
+      "phyAtk": 106,
+      "magAtk": 44,
+      "phyDef": 101,
+      "magDef": 69,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3475,
+    "name": "haikuichong_yidi",
+    "displayName": "海盔虫",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 70,
+      "phyAtk": 25,
+      "magAtk": 60,
+      "phyDef": 44,
+      "magDef": 64,
+      "spd": 63
+    }
+  },
+  {
+    "id": 3476,
+    "name": "cikuichong_yidi",
+    "displayName": "刺盔虫",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 94,
+      "phyAtk": 33,
+      "magAtk": 80,
+      "phyDef": 59,
+      "magDef": 85,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3477,
+    "name": "qianjikui_yidi",
+    "displayName": "千棘盔",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "stats": {
+      "hp": 117,
+      "phyAtk": 41,
+      "magAtk": 100,
+      "phyDef": 74,
+      "magDef": 107,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3478,
+    "name": "dingding_yangtao",
+    "displayName": "香草甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 88,
+      "phyAtk": 92,
+      "magAtk": 96,
+      "phyDef": 58,
+      "magDef": 77,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3479,
+    "name": "dingding_lanmei",
+    "displayName": "香草甜甜",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 91,
+      "phyAtk": 94,
+      "magAtk": 88,
+      "phyDef": 63,
+      "magDef": 74,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3480,
+    "name": "shengyuyiwang",
+    "displayName": "圣羽翼王",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 132,
+      "phyAtk": 109,
+      "magAtk": 109,
+      "phyDef": 128,
+      "magDef": 83,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3481,
+    "name": "youlinglian_biyan",
+    "displayName": "暗影灵面",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 84,
+      "phyAtk": 30,
+      "magAtk": 96,
+      "phyDef": 83,
+      "magDef": 88,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3482,
+    "name": "youmingzhiyan_biyan",
+    "displayName": "幽冥眼",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 105,
+      "phyAtk": 38,
+      "magAtk": 120,
+      "phyDef": 104,
+      "magDef": 110,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3483,
+    "name": "pengyechong",
+    "displayName": "蓬叶虫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 74,
+      "phyAtk": 19,
+      "magAtk": 87,
+      "phyDef": 84,
+      "magDef": 73,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3484,
+    "name": "luoxuanpapa",
+    "displayName": "螺旋帕帕",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 88,
+      "phyAtk": 55,
+      "magAtk": 8,
+      "phyDef": 79,
+      "magDef": 67,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3485,
+    "name": "luoyunxingtu",
+    "displayName": "落陨星兔",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 93,
+      "phyAtk": 61,
+      "magAtk": 125,
+      "phyDef": 87,
+      "magDef": 141,
+      "spd": 130
+    }
+  },
+  {
+    "id": 3486,
+    "name": "jingshiwo_yidi4",
+    "displayName": "晶石蜗",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 95,
+      "phyAtk": 97,
+      "magAtk": 102,
+      "phyDef": 130,
+      "magDef": 91,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3490,
+    "name": "xiniou",
+    "displayName": "吸泥鸥",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 99,
+      "phyAtk": 89,
+      "magAtk": 33,
+      "phyDef": 87,
+      "magDef": 71,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3491,
+    "name": "nihouya",
+    "displayName": "泥吼牙",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "stats": {
+      "hp": 124,
+      "phyAtk": 112,
+      "magAtk": 41,
+      "phyDef": 109,
+      "magDef": 88,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3492,
+    "name": "shouhualei",
+    "displayName": "兽花蕾",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "stats": {
+      "hp": 70,
+      "phyAtk": 79,
+      "magAtk": 82,
+      "phyDef": 70,
+      "magDef": 97,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3495,
+    "name": "yajiji_ranleya",
+    "displayName": "鸭吉吉",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 108,
+      "phyAtk": 89,
+      "magAtk": 41,
+      "phyDef": 74,
+      "magDef": 48,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3496,
+    "name": "xuanyechong_yidi",
+    "displayName": "旋叶虫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 57,
+      "phyAtk": 15,
+      "magAtk": 67,
+      "phyDef": 61,
+      "magDef": 52,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3497,
+    "name": "pengyechong_yidi",
+    "displayName": "蓬叶虫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 76,
+      "phyAtk": 20,
+      "magAtk": 89,
+      "phyDef": 82,
+      "magDef": 70,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3498,
+    "name": "fengguanmuchong_yidi",
+    "displayName": "风滚暮虫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 95,
+      "phyAtk": 25,
+      "magAtk": 111,
+      "phyDef": 102,
+      "magDef": 87,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3499,
+    "name": "gongpingge",
+    "displayName": "公平鸽",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 113,
+      "phyAtk": 93,
+      "magAtk": 93,
+      "phyDef": 125,
+      "magDef": 125,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3500,
+    "name": "shifuxi_yidi",
+    "displayName": "石肤蜥",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 68,
+      "phyAtk": 54,
+      "magAtk": 53,
+      "phyDef": 64,
+      "magDef": 44,
+      "spd": 60
+    }
+  },
+  {
+    "id": 3501,
+    "name": "shicixi_yidi",
+    "displayName": "石刺蜥",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 91,
+      "phyAtk": 72,
+      "magAtk": 71,
+      "phyDef": 85,
+      "magDef": 59,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3502,
+    "name": "shiguanwangxi_yidi",
+    "displayName": "石冠王蜥",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 113,
+      "phyAtk": 90,
+      "magAtk": 89,
+      "phyDef": 106,
+      "magDef": 74,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3506,
+    "name": "huayuanman",
+    "displayName": "花怨鳗",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 232,
+      "phyAtk": 73,
+      "magAtk": 73,
+      "phyDef": 110,
+      "magDef": 90,
+      "spd": 52
+    }
+  },
+  {
+    "id": 3507,
+    "name": "manweishou",
+    "displayName": "鳗尾兽",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 290,
+      "phyAtk": 91,
+      "magAtk": 91,
+      "phyDef": 138,
+      "magDef": 113,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3508,
+    "name": "boboluo",
+    "displayName": "波波螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 67,
+      "phyAtk": 59,
+      "magAtk": 59,
+      "phyDef": 87,
+      "magDef": 66,
+      "spd": 42
+    }
+  },
+  {
+    "id": 3509,
+    "name": "xiaoboluo",
+    "displayName": "消波螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 89,
+      "phyAtk": 78,
+      "magAtk": 78,
+      "phyDef": 116,
+      "magDef": 88,
+      "spd": 56
+    }
+  },
+  {
+    "id": 3510,
+    "name": "shiboluo",
+    "displayName": "嗜波螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 112,
+      "phyAtk": 98,
+      "magAtk": 98,
+      "phyDef": 146,
+      "magDef": 110,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3511,
+    "name": "boboluo_yidi",
+    "displayName": "波波螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 64,
+      "phyAtk": 57,
+      "magAtk": 57,
+      "phyDef": 64,
+      "magDef": 86,
+      "spd": 42
+    }
+  },
+  {
+    "id": 3512,
+    "name": "xiaoboluo_yidi",
+    "displayName": "消波螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 85,
+      "phyAtk": 76,
+      "magAtk": 76,
+      "phyDef": 85,
+      "magDef": 115,
+      "spd": 56
+    }
+  },
+  {
+    "id": 3513,
+    "name": "shiboluo_yidi",
+    "displayName": "嗜波螺",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 107,
+      "phyAtk": 95,
+      "magAtk": 95,
+      "phyDef": 106,
+      "magDef": 144,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3516,
+    "name": "banbanke_tuipi",
+    "displayName": "板板壳",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 88,
+      "phyAtk": 24,
+      "magAtk": 72,
+      "phyDef": 56,
+      "magDef": 59,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3517,
+    "name": "kakake_tuipi",
+    "displayName": "咔咔壳",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 117,
+      "phyAtk": 31,
+      "magAtk": 96,
+      "phyDef": 75,
+      "magDef": 79,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3518,
+    "name": "shuipaoke_tuipi",
+    "displayName": "水泡壳",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 146,
+      "phyAtk": 39,
+      "magAtk": 121,
+      "phyDef": 93,
+      "magDef": 98,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3521,
+    "name": "lilayao",
+    "displayName": "里拉鳐",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 118,
+      "phyAtk": 82,
+      "magAtk": 89,
+      "phyDef": 103,
+      "magDef": 147,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3526,
+    "name": "mochabuding",
+    "displayName": "抹茶布丁",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "stats": {
+      "hp": 101,
+      "phyAtk": 32,
+      "magAtk": 101,
+      "phyDef": 94,
+      "magDef": 98,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3527,
+    "name": "yejiangbuding",
+    "displayName": "椰浆布丁",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 133,
+      "phyAtk": 34,
+      "magAtk": 89,
+      "phyDef": 81,
+      "magDef": 105,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3528,
+    "name": "rongyanbuding",
+    "displayName": "熔岩布丁",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "stats": {
+      "hp": 128,
+      "phyAtk": 87,
+      "magAtk": 33,
+      "phyDef": 112,
+      "magDef": 84,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3529,
+    "name": "haoeryu",
+    "displayName": "号儿鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 109,
+      "phyAtk": 27,
+      "magAtk": 76,
+      "phyDef": 76,
+      "magDef": 88,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3530,
+    "name": "diyinhaoyu",
+    "displayName": "圆号鱼",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 136,
+      "phyAtk": 34,
+      "magAtk": 95,
+      "phyDef": 95,
+      "magDef": 110,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3533,
+    "name": "xuerongniao_dong",
+    "displayName": "雪绒鸟",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 54,
+      "phyAtk": 77,
+      "magAtk": 33,
+      "phyDef": 65,
+      "magDef": 44,
+      "spd": 69
+    }
+  },
+  {
+    "id": 3534,
+    "name": "banban",
+    "displayName": "斑斑",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 71,
+      "phyAtk": 90,
+      "magAtk": 90,
+      "phyDef": 71,
+      "magDef": 80,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3535,
+    "name": "banxiao",
+    "displayName": "斑枭",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 89,
+      "phyAtk": 112,
+      "magAtk": 112,
+      "phyDef": 89,
+      "magDef": 100,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3536,
+    "name": "wuda",
+    "displayName": "乌达",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 80,
+      "phyAtk": 95,
+      "magAtk": 49,
+      "phyDef": 70,
+      "magDef": 42,
+      "spd": 33
+    }
+  },
+  {
+    "id": 3537,
+    "name": "miniwu",
+    "displayName": "迷你乌",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 107,
+      "phyAtk": 126,
+      "magAtk": 66,
+      "phyDef": 93,
+      "magDef": 56,
+      "spd": 44
+    }
+  },
+  {
+    "id": 3538,
+    "name": "wulata",
+    "displayName": "乌拉塔",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 134,
+      "phyAtk": 158,
+      "magAtk": 82,
+      "phyDef": 116,
+      "magDef": 70,
+      "spd": 55
+    }
+  },
+  {
+    "id": 3539,
+    "name": "wuda_yidi",
+    "displayName": "乌达",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 96,
+      "phyAtk": 95,
+      "magAtk": 55,
+      "phyDef": 64,
+      "magDef": 34,
+      "spd": 30
+    }
+  },
+  {
+    "id": 3540,
+    "name": "miniwu_yidi",
+    "displayName": "迷你乌",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 128,
+      "phyAtk": 126,
+      "magAtk": 73,
+      "phyDef": 85,
+      "magDef": 46,
+      "spd": 40
+    }
+  },
+  {
+    "id": 3541,
+    "name": "wulata_yidi",
+    "displayName": "乌拉塔",
+    "mainType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 160,
+      "phyAtk": 158,
+      "magAtk": 91,
+      "phyDef": 106,
+      "magDef": 57,
+      "spd": 50
+    }
+  },
+  {
+    "id": 3543,
+    "name": "duoling",
+    "displayName": "多灵",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 15,
+      "phyAtk": 15,
+      "magAtk": 15,
+      "phyDef": 15,
+      "magDef": 15,
+      "spd": 30
+    }
+  },
+  {
+    "id": 3544,
+    "name": "duolingzhu",
+    "displayName": "多灵主",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 20,
+      "phyAtk": 20,
+      "magAtk": 20,
+      "phyDef": 20,
+      "magDef": 20,
+      "spd": 40
+    }
+  },
+  {
+    "id": 3545,
+    "name": "shengjianshicong",
+    "displayName": "圣剑侍从",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 139,
+      "phyAtk": 116,
+      "magAtk": 111,
+      "phyDef": 139,
+      "magDef": 139,
+      "spd": 52
+    }
+  },
+  {
+    "id": 3546,
+    "name": "shengjianX",
+    "displayName": "圣剑-X",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 174,
+      "phyAtk": 144,
+      "magAtk": 139,
+      "phyDef": 173,
+      "magDef": 173,
+      "spd": 65
+    }
+  },
+  {
+    "id": 3547,
+    "name": "papasika",
+    "displayName": "帕帕斯卡",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "stats": {
+      "hp": 110,
+      "phyAtk": 68,
+      "magAtk": 10,
+      "phyDef": 99,
+      "magDef": 84,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3550,
+    "name": "qiqi",
+    "displayName": "棋棋",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 72,
+      "phyAtk": 100,
+      "magAtk": 36,
+      "phyDef": 70,
+      "magDef": 56,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3551,
+    "name": "qiqishi",
+    "displayName": "棋骑士",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 90,
+      "phyAtk": 126,
+      "magAtk": 45,
+      "phyDef": 88,
+      "magDef": 69,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3552,
+    "name": "qiqihou",
+    "displayName": "棋绮后",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 93,
+      "phyAtk": 84,
+      "magAtk": 84,
+      "phyDef": 82,
+      "magDef": 75,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3553,
+    "name": "qiqilei",
+    "displayName": "棋齐垒",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 89,
+      "phyAtk": 94,
+      "magAtk": 38,
+      "phyDef": 116,
+      "magDef": 77,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3554,
+    "name": "qiqidu",
+    "displayName": "棋祈督",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 126,
+      "phyAtk": 87,
+      "magAtk": 87,
+      "phyDef": 90,
+      "magDef": 72,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3555,
+    "name": "qiqi_yidi",
+    "displayName": "棋棋",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 66,
+      "phyAtk": 97,
+      "magAtk": 35,
+      "phyDef": 67,
+      "magDef": 53,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3556,
+    "name": "qiqishi_yidi",
+    "displayName": "棋骑士",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 83,
+      "phyAtk": 121,
+      "magAtk": 43,
+      "phyDef": 84,
+      "magDef": 66,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3557,
+    "name": "qiqihou_yidi",
+    "displayName": "棋绮后",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 93,
+      "phyAtk": 84,
+      "magAtk": 84,
+      "phyDef": 82,
+      "magDef": 75,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3558,
+    "name": "qiqilei_yidi",
+    "displayName": "棋齐垒",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 89,
+      "phyAtk": 94,
+      "magAtk": 38,
+      "phyDef": 116,
+      "magDef": 77,
+      "spd": 75
+    }
+  },
+  {
+    "id": 3559,
+    "name": "qiqidu_yidi",
+    "displayName": "棋祈督",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 126,
+      "phyAtk": 87,
+      "magAtk": 87,
+      "phyDef": 90,
+      "magDef": 72,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3565,
+    "name": "lishu",
+    "displayName": "栗鼠",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 96,
+      "phyAtk": 47,
+      "magAtk": 49,
+      "phyDef": 62,
+      "magDef": 89,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3566,
+    "name": "kelisishu",
+    "displayName": "壳栗丝鼠",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 120,
+      "phyAtk": 59,
+      "magAtk": 61,
+      "phyDef": 77,
+      "magDef": 111,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3567,
+    "name": "3567",
+    "displayName": "落陨星兔",
+    "mainType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 93,
+      "phyAtk": 61,
+      "magAtk": 125,
+      "phyDef": 87,
+      "magDef": 141,
+      "spd": 130
+    }
+  },
+  {
+    "id": 3568,
+    "name": "xiaoheimao",
+    "displayName": "小黑猫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 121,
+      "phyAtk": 72,
+      "magAtk": 130,
+      "phyDef": 54,
+      "magDef": 95,
+      "spd": 56
+    }
+  },
+  {
+    "id": 3569,
+    "name": "heimaowushi",
+    "displayName": "黑猫巫师",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 152,
+      "phyAtk": 91,
+      "magAtk": 163,
+      "phyDef": 67,
+      "magDef": 119,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3571,
+    "name": "heiyufuren",
+    "displayName": "黑羽夫人",
+    "mainType": {
+      "id": 13,
+      "name": "Flying",
+      "zh": "翼"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 132,
+      "phyAtk": 93,
+      "magAtk": 87,
+      "phyDef": 130,
+      "magDef": 90,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3577,
+    "name": "moyoushi",
+    "displayName": "墨鱿士",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 103,
+      "phyAtk": 84,
+      "magAtk": 34,
+      "phyDef": 105,
+      "magDef": 79,
+      "spd": 56
+    }
+  },
+  {
+    "id": 3578,
+    "name": "hunluanyoucai",
+    "displayName": "混乱鱿彩",
+    "mainType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 129,
+      "phyAtk": 105,
+      "magAtk": 42,
+      "phyDef": 131,
+      "magDef": 99,
+      "spd": 70
+    }
+  },
+  {
+    "id": 3579,
+    "name": "zhixumoyu",
+    "displayName": "秩序鱿墨",
+    "mainType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "subType": {
+      "id": 15,
+      "name": "Ghost",
+      "zh": "幽"
+    },
+    "stats": {
+      "hp": 78,
+      "phyAtk": 120,
+      "magAtk": 39,
+      "phyDef": 124,
+      "magDef": 113,
+      "spd": 130
+    }
+  },
+  {
+    "id": 3582,
+    "name": "ciluntuo_yidi",
+    "displayName": "刺轮砣",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 100,
+      "phyAtk": 80,
+      "magAtk": 78,
+      "phyDef": 80,
+      "magDef": 65,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3583,
+    "name": "yueliangtuo_yidi",
+    "displayName": "月亮砣",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 125,
+      "phyAtk": 100,
+      "magAtk": 98,
+      "phyDef": 100,
+      "magDef": 81,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3584,
+    "name": "ciluntuo",
+    "displayName": "刺轮砣",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 100,
+      "phyAtk": 78,
+      "magAtk": 80,
+      "phyDef": 65,
+      "magDef": 80,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3585,
+    "name": "yueliangtuo",
+    "displayName": "月亮砣",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 125,
+      "phyAtk": 98,
+      "magAtk": 100,
+      "phyDef": 81,
+      "magDef": 100,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3594,
+    "name": "songzai",
+    "displayName": "松仔",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 63,
+      "phyAtk": 83,
+      "magAtk": 34,
+      "phyDef": 77,
+      "magDef": 60,
+      "spd": 63
+    }
+  },
+  {
+    "id": 3595,
+    "name": "yesongyang",
+    "displayName": "松叶羊",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 84,
+      "phyAtk": 111,
+      "magAtk": 46,
+      "phyDef": 102,
+      "magDef": 80,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3596,
+    "name": "zhenyexunlin",
+    "displayName": "针叶巡林",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 105,
+      "phyAtk": 139,
+      "magAtk": 57,
+      "phyDef": 128,
+      "magDef": 100,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3597,
+    "name": "shuidishe",
+    "displayName": "水滴蛇",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 63,
+      "phyAtk": 66,
+      "magAtk": 62,
+      "phyDef": 62,
+      "magDef": 62,
+      "spd": 63
+    }
+  },
+  {
+    "id": 3598,
+    "name": "shuishesuo",
+    "displayName": "水蛇锁",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 84,
+      "phyAtk": 88,
+      "magAtk": 83,
+      "phyDef": 83,
+      "magDef": 83,
+      "spd": 84
+    }
+  },
+  {
+    "id": 3599,
+    "name": "youshemoshi",
+    "displayName": "游蛇魔使",
+    "mainType": {
+      "id": 4,
+      "name": "Water",
+      "zh": "水"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 105,
+      "phyAtk": 110,
+      "magAtk": 104,
+      "phyDef": 103,
+      "magDef": 103,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3600,
+    "name": "xiaoyongshi",
+    "displayName": "小勇狮",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 82,
+      "phyAtk": 31,
+      "magAtk": 66,
+      "phyDef": 53,
+      "magDef": 78,
+      "spd": 48
+    }
+  },
+  {
+    "id": 3601,
+    "name": "chiyanshi",
+    "displayName": "炽焰狮",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 110,
+      "phyAtk": 41,
+      "magAtk": 89,
+      "phyDef": 70,
+      "magDef": 104,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3602,
+    "name": "chixinyongshi",
+    "displayName": "炽心勇狮",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 137,
+      "phyAtk": 51,
+      "magAtk": 111,
+      "phyDef": 88,
+      "magDef": 130,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3603,
+    "name": "maotouxiaozhu",
+    "displayName": "毛头小蛛",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 85,
+      "phyAtk": 80,
+      "magAtk": 27,
+      "phyDef": 93,
+      "magDef": 79,
+      "spd": 88
+    }
+  },
+  {
+    "id": 3604,
+    "name": "buchenchangrong",
+    "displayName": "捕尘长绒",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 106,
+      "phyAtk": 100,
+      "magAtk": 34,
+      "phyDef": 116,
+      "magDef": 99,
+      "spd": 110
+    }
+  },
+  {
+    "id": 3605,
+    "name": "shichenduanrong",
+    "displayName": "食尘短绒",
+    "mainType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "subType": {
+      "id": 11,
+      "name": "Bug",
+      "zh": "虫"
+    },
+    "stats": {
+      "hp": 109,
+      "phyAtk": 105,
+      "magAtk": 37,
+      "phyDef": 113,
+      "magDef": 97,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3606,
+    "name": "huajingling",
+    "displayName": "画精灵",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 61,
+      "phyAtk": 32,
+      "magAtk": 78,
+      "phyDef": 56,
+      "magDef": 72,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3607,
+    "name": "huaxiangshouhu",
+    "displayName": "画像守护",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 81,
+      "phyAtk": 42,
+      "magAtk": 104,
+      "phyDef": 75,
+      "magDef": 96,
+      "spd": 96
+    }
+  },
+  {
+    "id": 3608,
+    "name": "huajianfashishou",
+    "displayName": "画间法师手",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 101,
+      "phyAtk": 53,
+      "magAtk": 131,
+      "phyDef": 94,
+      "magDef": 120,
+      "spd": 120
+    }
+  },
+  {
+    "id": 3609,
+    "name": "huajianchentieshou",
+    "displayName": "画间沉铁兽",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 100,
+      "phyAtk": 160,
+      "magAtk": 67,
+      "phyDef": 100,
+      "magDef": 76,
+      "spd": 105
+    }
+  },
+  {
+    "id": 3610,
+    "name": "shumochong",
+    "displayName": "书魔虫",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 67,
+      "phyAtk": 75,
+      "magAtk": 75,
+      "phyDef": 48,
+      "magDef": 73,
+      "spd": 57
+    }
+  },
+  {
+    "id": 3611,
+    "name": "shujuanshouhu",
+    "displayName": "书卷守护",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 89,
+      "phyAtk": 100,
+      "magAtk": 100,
+      "phyDef": 64,
+      "magDef": 98,
+      "spd": 76
+    }
+  },
+  {
+    "id": 3612,
+    "name": "gujuanzhizhengguan",
+    "displayName": "古卷执政官",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 111,
+      "phyAtk": 125,
+      "magAtk": 125,
+      "phyDef": 80,
+      "magDef": 122,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3613,
+    "name": "gujuanxiamoxiang",
+    "displayName": "古卷匣魔像",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "stats": {
+      "hp": 114,
+      "phyAtk": 109,
+      "magAtk": 109,
+      "phyDef": 134,
+      "magDef": 89,
+      "spd": 95
+    }
+  },
+  {
+    "id": 3614,
+    "name": "shiguangwengweng",
+    "displayName": "嗜光嗡嗡",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 75,
+      "phyAtk": 83,
+      "magAtk": 83,
+      "phyDef": 50,
+      "magDef": 90,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3615,
+    "name": "qieguangwen",
+    "displayName": "窃光蚊",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 16,
+      "name": "Dark",
+      "zh": "恶"
+    },
+    "stats": {
+      "hp": 93,
+      "phyAtk": 104,
+      "magAtk": 104,
+      "phyDef": 63,
+      "magDef": 113,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3616,
+    "name": "buguzhong",
+    "displayName": "不咕钟",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 76,
+      "phyAtk": 84,
+      "magAtk": 92,
+      "phyDef": 96,
+      "magDef": 96,
+      "spd": 68
+    }
+  },
+  {
+    "id": 3617,
+    "name": "suyuanzhong",
+    "displayName": "溯源钟",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 95,
+      "phyAtk": 105,
+      "magAtk": 115,
+      "phyDef": 120,
+      "magDef": 120,
+      "spd": 85
+    }
+  },
+  {
+    "id": 3618,
+    "name": "xiaoxiangguai",
+    "displayName": "小箱怪",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 111,
+      "phyAtk": 103,
+      "magAtk": 103,
+      "phyDef": 122,
+      "magDef": 122,
+      "spd": 64
+    }
+  },
+  {
+    "id": 3619,
+    "name": "mimixiangguai",
+    "displayName": "迷迷箱怪",
+    "mainType": {
+      "id": 17,
+      "name": "Mechanical",
+      "zh": "机械"
+    },
+    "subType": {
+      "id": 18,
+      "name": "Illusion",
+      "zh": "幻"
+    },
+    "stats": {
+      "hp": 138,
+      "phyAtk": 129,
+      "magAtk": 129,
+      "phyDef": 153,
+      "magDef": 153,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3620,
+    "name": "xueyuanguagua",
+    "displayName": "学院呱呱",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 132,
+      "phyAtk": 99,
+      "magAtk": 99,
+      "phyDef": 92,
+      "magDef": 92,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3621,
+    "name": "guzhongshe_yidi",
+    "displayName": "古钟蛇",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 80,
+      "phyAtk": 63,
+      "magAtk": 70,
+      "phyDef": 64,
+      "magDef": 91,
+      "spd": 80
+    }
+  },
+  {
+    "id": 3622,
+    "name": "hanyinshe_yidi",
+    "displayName": "寒音蛇",
+    "mainType": {
+      "id": 10,
+      "name": "Poison",
+      "zh": "毒"
+    },
+    "subType": {
+      "id": 14,
+      "name": "Cute",
+      "zh": "萌"
+    },
+    "stats": {
+      "hp": 100,
+      "phyAtk": 79,
+      "magAtk": 87,
+      "phyDef": 80,
+      "magDef": 114,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3704,
+    "name": "youyou",
+    "displayName": "优优",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 81,
+      "phyAtk": 35,
+      "magAtk": 89,
+      "phyDef": 84,
+      "magDef": 104,
+      "spd": 92
+    }
+  },
+  {
+    "id": 3705,
+    "name": "rongguangyouyou",
+    "displayName": "绒光优优",
+    "mainType": {
+      "id": 5,
+      "name": "Light",
+      "zh": "光"
+    },
+    "subType": {
+      "id": 6,
+      "name": "Ground",
+      "zh": "地"
+    },
+    "stats": {
+      "hp": 101,
+      "phyAtk": 43,
+      "magAtk": 111,
+      "phyDef": 105,
+      "magDef": 130,
+      "spd": 115
+    }
+  },
+  {
+    "id": 3738,
+    "name": "xiaosongmao_yidi",
+    "displayName": "小怂猫",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 87,
+      "phyAtk": 106,
+      "magAtk": 103,
+      "phyDef": 89,
+      "magDef": 62,
+      "spd": 72
+    }
+  },
+  {
+    "id": 3739,
+    "name": "numusongmao_yidi",
+    "displayName": "怒目怂猫",
+    "mainType": {
+      "id": 12,
+      "name": "Fighting",
+      "zh": "武"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 109,
+      "phyAtk": 132,
+      "magAtk": 128,
+      "phyDef": 111,
+      "magDef": 77,
+      "spd": 90
+    }
+  },
+  {
+    "id": 3742,
+    "name": "yajiji_qilaiya",
+    "displayName": "鸭吉吉",
+    "mainType": {
+      "id": 1,
+      "name": "Normal",
+      "zh": "普通"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 107,
+      "phyAtk": 53,
+      "magAtk": 125,
+      "phyDef": 80,
+      "magDef": 113,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3744,
+    "name": "huohongwei",
+    "displayName": "火红尾",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 67,
+      "phyAtk": 56,
+      "magAtk": 129,
+      "phyDef": 70,
+      "magDef": 89,
+      "spd": 100
+    }
+  },
+  {
+    "id": 3745,
+    "name": "yadanbin",
+    "displayName": "雅丹鬃",
+    "mainType": {
+      "id": 3,
+      "name": "Fire",
+      "zh": "火"
+    },
+    "subType": null,
+    "stats": {
+      "hp": 83,
+      "phyAtk": 70,
+      "magAtk": 162,
+      "phyDef": 88,
+      "magDef": 111,
+      "spd": 125
+    }
+  },
+  {
+    "id": 3746,
+    "name": "xueyingwawa",
+    "displayName": "雪影娃娃·春日",
+    "mainType": {
+      "id": 2,
+      "name": "Grass",
+      "zh": "草"
+    },
+    "subType": {
+      "id": 7,
+      "name": "Ice",
+      "zh": "冰"
+    },
+    "stats": {
+      "hp": 147,
+      "phyAtk": 116,
+      "magAtk": 111,
+      "phyDef": 69,
+      "magDef": 135,
+      "spd": 90
+    }
+  }
+]
