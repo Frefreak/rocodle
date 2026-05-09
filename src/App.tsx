@@ -162,6 +162,9 @@ function App() {
             <div className="cell cell-name">宠物</div>
             <div className="cell cell-type">主属性</div>
             <div className="cell cell-type">副属性</div>
+            <div className="cell cell-evolved">进化</div>
+            <div className="cell cell-area">图鉴地区</div>
+            <div className="cell cell-habitat">栖息地</div>
             {config.statKeys.map((key) => (
               <div key={key} className="cell cell-stat">
                 {STAT_LABELS[key]}
@@ -178,6 +181,17 @@ function App() {
               </div>
               <div className={`cell cell-type fb-${g.types.subFeedback}`}>
                 {g.types.guessSub?.zh ?? "无"}
+              </div>
+              <div className={`cell cell-evolved fb-${g.evolved.feedback}`}>
+                {g.evolved.guess ? "已进化" : "未进化"}
+              </div>
+              <div className={`cell cell-area fb-${g.area.feedback}`}>
+                {g.area.guess.length > 0
+                  ? g.area.guess.map((a) => a.replace("图鉴", "")).join(" / ")
+                  : "无"}
+              </div>
+              <div className={`cell cell-habitat fb-${g.habitat.feedback}`}>
+                {g.habitat.guess ?? "无"}
               </div>
               {g.stats.map((s) => (
                 <div key={s.key} className={`cell cell-stat fb-${s.feedback}`}>
@@ -217,6 +231,14 @@ function App() {
                 属性: {target.mainType?.zh ?? "无"}
                 {target.subType ? ` / ${target.subType.zh}` : ""}
               </span>
+              <span>进化: {target.evolved ? "已进化" : "未进化"}</span>
+              <span>
+                图鉴地区:{" "}
+                {target.area.length > 0
+                  ? target.area.map((a) => a.replace("图鉴", "")).join(" / ")
+                  : "无"}
+              </span>
+              <span>栖息地: {target.habitat ?? "无"}</span>
               <div className="reveal-stats">
                 {Object.entries(target.stats).map(([key, val]) => (
                   <div key={key} className="reveal-stat">

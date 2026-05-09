@@ -17,14 +17,20 @@ export interface Pet {
   id: number;
   name: string;
   displayName: string;
+  form: string | null;
   mainType: PetType | null;
   subType: PetType | null;
+  area: string[];
+  habitat: string | null;
+  evolved: boolean;
   stats: PetStats;
 }
 
 // Feedback types
 export type StatFeedback = "higher" | "lower" | "match";
 export type TypeFeedback = "match" | "no_match" | "partial";
+export type SetFeedback = "match" | "partial" | "no_match";
+export type BoolFeedback = "match" | "no_match";
 
 export type TypeFeedbackMode = "binary" | "ternary";
 // binary: match or no_match only
@@ -49,10 +55,28 @@ export interface TypeGuessResult {
   subFeedback: TypeFeedback;
 }
 
+export interface AreaGuessResult {
+  guess: string[];
+  feedback: SetFeedback;
+}
+
+export interface HabitatGuessResult {
+  guess: string | null;
+  feedback: SetFeedback;
+}
+
+export interface EvolvedGuessResult {
+  guess: boolean;
+  feedback: BoolFeedback;
+}
+
 export interface GuessResult {
   pet: Pet;
   stats: StatGuessResult[];
   types: TypeGuessResult;
+  area: AreaGuessResult;
+  habitat: HabitatGuessResult;
+  evolved: EvolvedGuessResult;
   isCorrect: boolean;
 }
 

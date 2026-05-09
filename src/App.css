@@ -150,9 +150,22 @@
 .table-header,
 .table-row {
   display: grid;
-  grid-template-columns: 100px 70px 70px repeat(6, 1fr);
+  grid-template-columns: 130px 60px 60px 60px 120px 160px repeat(6, 60px);
   gap: 4px;
   margin-bottom: 4px;
+  min-width: 1010px;
+}
+
+.cell-area,
+.cell-habitat {
+  font-size: 0.78rem;
+  white-space: normal;
+  line-height: 1.2;
+  word-break: break-all;
+}
+
+.cell-evolved {
+  font-size: 0.8rem;
 }
 
 .table-header {

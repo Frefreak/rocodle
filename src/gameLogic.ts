@@ -6,6 +6,7 @@ import type {
   TypeGuessResult,
   StatFeedback,
   TypeFeedback,
+  SetFeedback,
 } from "./types";
 
 function comparestat(guessVal: number, targetVal: number): StatFeedback {
@@ -50,6 +51,21 @@ function compareType(
   };
 }
 
+function compareSets(guess: string[], target: string[]): SetFeedback {
+  const g = new Set(guess);
+  const t = new Set(target);
+  if (g.size === t.size && [...g].every((x) => t.has(x))) return "match";
+  for (const x of g) if (t.has(x)) return "partial";
+  return "no_match";
+}
+
+function splitHabitat(s: string | null): string[] {
+  if (!s) return [];
+  // Habitats look like "月牙湖岸、聆风塔地、旧飞艇航道"; the placeholder
+  // "行踪有些难以捉摸" / "行踪神秘" mean "unknown" — treat as a single token.
+  return s.split(/[、,，]/).map((x) => x.trim()).filter(Boolean);
+}
+
 export function evaluateGuess(
   guess: Pet,
   target: Pet,
@@ -73,6 +89,18 @@ export function evaluateGuess(
     pet: guess,
     stats,
     types,
+    area: {
+      guess: guess.area,
+      feedback: compareSets(guess.area, target.area),
+    },
+    habitat: {
+      guess: guess.habitat,
+      feedback: compareSets(splitHabitat(guess.habitat), splitHabitat(target.habitat)),
+    },
+    evolved: {
+      guess: guess.evolved,
+      feedback: guess.evolved === target.evolved ? "match" : "no_match",
+    },
     isCorrect: guess.id === target.id,
   };
 }
