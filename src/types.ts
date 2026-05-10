@@ -26,77 +26,14 @@ export interface Pet {
   stats: PetStats;
 }
 
-// Feedback types
-export type StatFeedback = "higher" | "lower" | "match";
-export type TypeFeedback = "match" | "no_match" | "partial";
-export type SetFeedback = "match" | "partial" | "no_match";
-export type BoolFeedback = "match" | "no_match";
-
-export type TypeFeedbackMode = "binary" | "ternary";
-// binary: match or no_match only
-// ternary: match, partial (one type overlaps), no_match
-
-export interface GameConfig {
-  maxGuesses: number;
-  typeFeedbackMode: TypeFeedbackMode;
-  statKeys: (keyof PetStats)[];
-}
-
-export interface StatGuessResult {
-  key: keyof PetStats;
-  value: number;
-  feedback: StatFeedback;
-}
-
-export interface TypeGuessResult {
-  guessMain: PetType | null;
-  guessSub: PetType | null;
-  mainFeedback: TypeFeedback;
-  subFeedback: TypeFeedback;
-}
-
-export interface AreaGuessResult {
-  guess: string[];
-  feedback: SetFeedback;
-}
-
-export interface HabitatGuessResult {
-  guess: string | null;
-  feedback: SetFeedback;
-}
-
-export interface EvolvedGuessResult {
-  guess: boolean;
-  feedback: BoolFeedback;
-}
-
-export interface GuessResult {
-  pet: Pet;
-  stats: StatGuessResult[];
-  types: TypeGuessResult;
-  area: AreaGuessResult;
-  habitat: HabitatGuessResult;
-  evolved: EvolvedGuessResult;
-  isCorrect: boolean;
-}
-
-export const DIFFICULTY_PRESETS: Record<string, GameConfig> = {
-  easy: {
-    maxGuesses: 10,
-    typeFeedbackMode: "ternary",
-    statKeys: ["hp", "phyAtk", "magAtk", "phyDef", "magDef", "spd"],
-  },
-  normal: {
-    maxGuesses: 7,
-    typeFeedbackMode: "ternary",
-    statKeys: ["hp", "phyAtk", "magAtk", "phyDef", "magDef", "spd"],
-  },
-  hard: {
-    maxGuesses: 5,
-    typeFeedbackMode: "binary",
-    statKeys: ["hp", "phyAtk", "magAtk", "phyDef", "magDef", "spd"],
-  },
-};
+export const STAT_KEYS: (keyof PetStats)[] = [
+  "hp",
+  "phyAtk",
+  "magAtk",
+  "phyDef",
+  "magDef",
+  "spd",
+];
 
 export const STAT_LABELS: Record<keyof PetStats, string> = {
   hp: "HP",
@@ -105,4 +42,63 @@ export const STAT_LABELS: Record<keyof PetStats, string> = {
   phyDef: "物防",
   magDef: "魔防",
   spd: "速度",
+};
+
+// A GameItem is one configurable unit of comparison + display.
+// Each kind has its own evaluator and renderer in src/items/.
+export type GameItem =
+  | { kind: "stats6" }
+  | { kind: "statsTotal" }
+  | { kind: "type"; mode: "binary" | "ternary" }
+  | { kind: "evolved" }
+  | { kind: "area" }
+  | { kind: "habitat" };
+
+export interface GameConfig {
+  maxGuesses: number;
+  items: GameItem[];
+}
+
+export interface ItemResult {
+  kind: GameItem["kind"];
+  feedback: unknown;
+}
+
+export interface GuessResult {
+  pet: Pet;
+  items: ItemResult[];
+  isCorrect: boolean;
+}
+
+export const DIFFICULTY_PRESETS: Record<string, GameConfig> = {
+  easy: {
+    maxGuesses: 10,
+    items: [
+      { kind: "type", mode: "ternary" },
+      { kind: "evolved" },
+      { kind: "area" },
+      { kind: "habitat" },
+      { kind: "stats6" },
+    ],
+  },
+  normal: {
+    maxGuesses: 7,
+    items: [
+      { kind: "type", mode: "ternary" },
+      { kind: "evolved" },
+      { kind: "area" },
+      { kind: "habitat" },
+      { kind: "stats6" },
+    ],
+  },
+  hard: {
+    maxGuesses: 5,
+    items: [
+      { kind: "type", mode: "binary" },
+      { kind: "evolved" },
+      { kind: "area" },
+      { kind: "habitat" },
+      { kind: "statsTotal" },
+    ],
+  },
 };

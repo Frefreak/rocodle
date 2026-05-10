@@ -150,10 +150,10 @@
 .table-header,
 .table-row {
   display: grid;
-  grid-template-columns: 130px 60px 60px 60px 120px 160px repeat(6, 60px);
+  /* grid-template-columns is set inline based on the active items */
   gap: 4px;
   margin-bottom: 4px;
-  min-width: 1010px;
+  width: max-content;
 }
 
 .cell-area,
@@ -198,31 +198,37 @@
   color: white;
 }
 
-/* Feedback colors */
-.fb-match {
-  background: #51cf66;
-  color: white;
-}
+/* Each item kind owns its own feedback palette below.
+   Items reuse the same swatches today, but they're free to diverge. */
 
-.fb-higher {
-  background: #ff6b6b;
-  color: white;
-}
+/* stats6: per-stat higher/lower/match */
+.stats6-match { background: #51cf66; color: white; }
+.stats6-higher { background: #ff6b6b; color: white; }
+.stats6-lower { background: #339af0; color: white; }
 
-.fb-lower {
-  background: #339af0;
-  color: white;
-}
+/* statsTotal: same palette as stats6 (single column) */
+.statsTotal-match { background: #51cf66; color: white; }
+.statsTotal-higher { background: #ff6b6b; color: white; }
+.statsTotal-lower { background: #339af0; color: white; }
 
-.fb-partial {
-  background: #ffd43b;
-  color: #333;
-}
+/* type: ternary match/partial/no_match */
+.type-match { background: #51cf66; color: white; }
+.type-partial { background: #ffd43b; color: #333; }
+.type-no_match { background: #868e96; color: white; }
 
-.fb-no_match {
-  background: #868e96;
-  color: white;
-}
+/* evolved: binary */
+.evolved-match { background: #51cf66; color: white; }
+.evolved-no_match { background: #868e96; color: white; }
+
+/* area: ternary set match */
+.area-match { background: #51cf66; color: white; }
+.area-partial { background: #ffd43b; color: #333; }
+.area-no_match { background: #868e96; color: white; }
+
+/* habitat: ternary set match */
+.habitat-match { background: #51cf66; color: white; }
+.habitat-partial { background: #ffd43b; color: #333; }
+.habitat-no_match { background: #868e96; color: white; }
 
 .cell-stat {
   display: flex;

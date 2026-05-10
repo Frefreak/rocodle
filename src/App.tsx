@@ -1,8 +1,11 @@
-import { useState, useEffect, useCallback, useRef } from "react";
+import { Fragment, useState, useEffect, useCallback, useRef, useMemo } from "react";
 import type { Pet, GameConfig, GuessResult } from "./types";
-import { DIFFICULTY_PRESETS, STAT_LABELS } from "./types";
+import { DIFFICULTY_PRESETS } from "./types";
 import { evaluateGuess, pickRandomPet } from "./gameLogic";
+import { getItemModule } from "./items";
 import "./App.css";
+
+const NAME_COLUMN_WIDTH = "130px";
 
 function App() {
   const [pets, setPets] = useState<Pet[]>([]);
@@ -17,6 +20,19 @@ function App() {
   const inputRef = useRef<HTMLInputElement>(null);
 
   const config: GameConfig = DIFFICULTY_PRESETS[difficulty];
+
+  const { gridTemplate, headers } = useMemo(() => {
+    const widths: string[] = [NAME_COLUMN_WIDTH];
+    const headerCells: { label: string; key: string }[] = [];
+    config.items.forEach((item, i) => {
+      const mod = getItemModule(item.kind);
+      mod.columns(item).forEach((col, j) => {
+        widths.push(col.width);
+        headerCells.push({ label: col.label, key: `${i}-${j}` });
+      });
+    });
+    return { gridTemplate: widths.join(" "), headers: headerCells };
+  }, [config]);
 
   useEffect(() => {
     fetch("/pets.json")
@@ -157,50 +173,34 @@ function App() {
       )}
 
       {guesses.length > 0 && (
-        <div className="results-table">
-          <div className="table-header">
+        <div
+          className="results-table"
+          style={{ ["--grid-template" as string]: gridTemplate }}
+        >
+          <div className="table-header" style={{ gridTemplateColumns: gridTemplate }}>
             <div className="cell cell-name">宠物</div>
-            <div className="cell cell-type">主属性</div>
-            <div className="cell cell-type">副属性</div>
-            <div className="cell cell-evolved">进化</div>
-            <div className="cell cell-area">图鉴地区</div>
-            <div className="cell cell-habitat">栖息地</div>
-            {config.statKeys.map((key) => (
-              <div key={key} className="cell cell-stat">
-                {STAT_LABELS[key]}
+            {headers.map((h) => (
+              <div key={h.key} className="cell">
+                {h.label}
               </div>
             ))}
           </div>
-          {guesses.map((g, i) => (
-            <div key={i} className="table-row">
+          {guesses.map((g, rowIdx) => (
+            <div
+              key={rowIdx}
+              className="table-row"
+              style={{ gridTemplateColumns: gridTemplate }}
+            >
               <div className={`cell cell-name ${g.isCorrect ? "correct" : ""}`}>
                 {g.pet.displayName}
               </div>
-              <div className={`cell cell-type fb-${g.types.mainFeedback}`}>
-                {g.types.guessMain?.zh ?? "无"}
-              </div>
-              <div className={`cell cell-type fb-${g.types.subFeedback}`}>
-                {g.types.guessSub?.zh ?? "无"}
-              </div>
-              <div className={`cell cell-evolved fb-${g.evolved.feedback}`}>
-                {g.evolved.guess ? "已进化" : "未进化"}
-              </div>
-              <div className={`cell cell-area fb-${g.area.feedback}`}>
-                {g.area.guess.length > 0
-                  ? g.area.guess.map((a) => a.replace("图鉴", "")).join(" / ")
-                  : "无"}
-              </div>
-              <div className={`cell cell-habitat fb-${g.habitat.feedback}`}>
-                {g.habitat.guess ?? "无"}
-              </div>
-              {g.stats.map((s) => (
-                <div key={s.key} className={`cell cell-stat fb-${s.feedback}`}>
-                  <span className="stat-value">{s.value}</span>
-                  {s.feedback === "higher" && <span className="arrow">▲</span>}
-                  {s.feedback === "lower" && <span className="arrow">▼</span>}
-                  {s.feedback === "match" && <span className="arrow">✓</span>}
-                </div>
-              ))}
+              {config.items.map((item, i) => {
+                const mod = getItemModule(item.kind);
+                const fb = g.items[i].feedback;
+                return (
+                  <Fragment key={i}>{mod.renderRow(fb, item)}</Fragment>
+                );
+              })}
             </div>
           ))}
         </div>
@@ -227,28 +227,10 @@ function App() {
           <div className="reveal-card">
             <h3>{target.displayName}</h3>
             <div className="reveal-info">
-              <span>
-                属性: {target.mainType?.zh ?? "无"}
-                {target.subType ? ` / ${target.subType.zh}` : ""}
-              </span>
-              <span>进化: {target.evolved ? "已进化" : "未进化"}</span>
-              <span>
-                图鉴地区:{" "}
-                {target.area.length > 0
-                  ? target.area.map((a) => a.replace("图鉴", "")).join(" / ")
-                  : "无"}
-              </span>
-              <span>栖息地: {target.habitat ?? "无"}</span>
-              <div className="reveal-stats">
-                {Object.entries(target.stats).map(([key, val]) => (
-                  <div key={key} className="reveal-stat">
-                    <span className="reveal-stat-label">
-                      {STAT_LABELS[key as keyof typeof STAT_LABELS]}
-                    </span>
-                    <span className="reveal-stat-value">{val}</span>
-                  </div>
-                ))}
-              </div>
+              {config.items.map((item, i) => {
+                const mod = getItemModule(item.kind);
+                return <Fragment key={i}>{mod.renderReveal(target, item)}</Fragment>;
+              })}
             </div>
           </div>
           <button className="play-again" onClick={resetGame}>
