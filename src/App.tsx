@@ -1,4 +1,4 @@
-import { Fragment, useState, useEffect, useCallback, useRef, useMemo } from "react";
+import { Fragment, useState, useEffect, useRef, useMemo } from "react";
 import type { Pet, GameConfig, GuessResult } from "./types";
 import { DIFFICULTY_PRESETS } from "./types";
 import { evaluateGuess, pickRandomPet } from "./gameLogic";
@@ -64,25 +64,22 @@ function App() {
     setSuggestions(matches);
   };
 
-  const submitGuess = useCallback(
-    (pet: Pet) => {
-      if (!target || gameOver) return;
-      const result = evaluateGuess(pet, target, config);
-      const newGuesses = [...guesses, result];
-      setGuesses(newGuesses);
-      setInput("");
-      setSuggestions([]);
-      setSelectedIndex(-1);
+  const submitGuess = (pet: Pet) => {
+    if (!target || gameOver) return;
+    const result = evaluateGuess(pet, target, config);
+    const newGuesses = [...guesses, result];
+    setGuesses(newGuesses);
+    setInput("");
+    setSuggestions([]);
+    setSelectedIndex(-1);
 
-      if (result.isCorrect) {
-        setWon(true);
-        setGameOver(true);
-      } else if (newGuesses.length >= config.maxGuesses) {
-        setGameOver(true);
-      }
-    },
-    [target, gameOver, config, guesses]
-  );
+    if (result.isCorrect) {
+      setWon(true);
+      setGameOver(true);
+    } else if (newGuesses.length >= config.maxGuesses) {
+      setGameOver(true);
+    }
+  };
 
   const handleKeyDown = (e: React.KeyboardEvent) => {
     if (suggestions.length > 0) {
