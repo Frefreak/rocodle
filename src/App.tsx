@@ -1,9 +1,11 @@
 import { Fragment, useState, useEffect, useRef, useMemo } from "react";
 import type { Pet, GameConfig, GuessResult } from "./types";
-import { DIFFICULTY_PRESETS } from "./types";
 import { evaluateGuess, pickRandomPet } from "./gameLogic";
 import { getItemModule } from "./items";
 import "./App.css";
+import Header from "./Header";
+import DifficultySelector from "./DifficultySelector";
+import { DIFFICULTY_PRESETS } from "./types"
 
 const NAME_COLUMN_WIDTH = "130px";
 
@@ -15,11 +17,11 @@ function App() {
   const [suggestions, setSuggestions] = useState<Pet[]>([]);
   const [gameOver, setGameOver] = useState(false);
   const [won, setWon] = useState(false);
-  const [difficulty, setDifficulty] = useState<string>("normal");
+  const [selectedDifficulty, setSelectedDifficulty] = useState(1);
   const [selectedIndex, setSelectedIndex] = useState(-1);
   const inputRef = useRef<HTMLInputElement>(null);
 
-  const config: GameConfig = DIFFICULTY_PRESETS[difficulty];
+  const config: GameConfig = DIFFICULTY_PRESETS[selectedDifficulty];
 
   const { gridTemplate, headers } = useMemo(() => {
     const widths: string[] = [NAME_COLUMN_WIDTH];
@@ -106,8 +108,8 @@ function App() {
     inputRef.current?.focus();
   };
 
-  const changeDifficulty = (d: string) => {
-    setDifficulty(d);
+  const changeDifficulty = (idx: number) => {
+    setSelectedDifficulty(idx);
     resetGame();
   };
 
@@ -115,25 +117,11 @@ function App() {
 
   return (
     <div className="app">
-      <h1 className="title">Rocodle</h1>
-      <p className="subtitle">猜猜这是哪只洛克王国宠物！</p>
-
-      <div className="controls">
-        <div className="difficulty-selector">
-          {Object.keys(DIFFICULTY_PRESETS).map((d) => (
-            <button
-              key={d}
-              className={`diff-btn ${d === difficulty ? "active" : ""}`}
-              onClick={() => changeDifficulty(d)}
-            >
-              {d === "easy" ? "简单" : d === "normal" ? "普通" : "困难"}
-            </button>
-          ))}
-        </div>
-        <span className="guess-count">
-          {guesses.length}/{config.maxGuesses}
-        </span>
-      </div>
+      <Header />
+      <DifficultySelector
+        selected={selectedDifficulty}
+        changeDifficulty={changeDifficulty}
+        maxGuesses={config.maxGuesses} guessesLength={guesses.length} />
 
       {!gameOver && (
         <div className="input-area">

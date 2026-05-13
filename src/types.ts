@@ -55,6 +55,8 @@ export type GameItem =
   | { kind: "habitat" };
 
 export interface GameConfig {
+  key: string;
+  name: string;
   maxGuesses: number;
   items: GameItem[];
 }
@@ -70,8 +72,10 @@ export interface GuessResult {
   isCorrect: boolean;
 }
 
-export const DIFFICULTY_PRESETS: Record<string, GameConfig> = {
-  easy: {
+export const DIFFICULTY_PRESETS: GameConfig[] = [
+  {
+    key: 'easy',
+    name: '简单',
     maxGuesses: 10,
     items: [
       { kind: "type", mode: "ternary" },
@@ -81,7 +85,9 @@ export const DIFFICULTY_PRESETS: Record<string, GameConfig> = {
       { kind: "stats6" },
     ],
   },
-  normal: {
+  {
+    key: 'normal',
+    name: '普通',
     maxGuesses: 7,
     items: [
       { kind: "type", mode: "ternary" },
@@ -91,7 +97,9 @@ export const DIFFICULTY_PRESETS: Record<string, GameConfig> = {
       { kind: "stats6" },
     ],
   },
-  hard: {
+  {
+    key: 'hard',
+    name: '困难',
     maxGuesses: 5,
     items: [
       { kind: "type", mode: "binary" },
@@ -101,4 +109,4 @@ export const DIFFICULTY_PRESETS: Record<string, GameConfig> = {
       { kind: "statsTotal" },
     ],
   },
-};
+]
