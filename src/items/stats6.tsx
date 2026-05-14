@@ -21,6 +21,12 @@ const ARROWS: Record<StatFeedback, string> = {
   match: "✓",
 };
 
+const TOOLTIPS: Record<StatFeedback, string> = {
+  match: "正确",
+  higher: "目标更高",
+  lower: "目标更低",
+};
+
 export const stats6Module: ItemModule<Stats6Item, Stats6Feedback> = {
   kind: "stats6",
   columns: () => STAT_KEYS.map((k) => ({ label: STAT_LABELS[k], width: "60px" })),
@@ -33,7 +39,11 @@ export const stats6Module: ItemModule<Stats6Item, Stats6Feedback> = {
   }),
   renderRow: (fb) =>
     fb.cells.map((s, i) => (
-      <div key={i} className={`cell cell-stat stats6-${s.feedback}`}>
+      <div
+        key={i}
+        className={`cell cell-stat stats6-${s.feedback}`}
+        title={TOOLTIPS[s.feedback]}
+      >
         <span className="stat-value">{s.value}</span>
         <span className="arrow">{ARROWS[s.feedback]}</span>
       </div>

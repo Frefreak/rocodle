@@ -83,6 +83,7 @@ export const DIFFICULTY_PRESETS: GameConfig[] = [
       { kind: "area" },
       { kind: "habitat" },
       { kind: "stats6" },
+      { kind: "statsTotal" },
     ],
   },
   {
@@ -94,7 +95,7 @@ export const DIFFICULTY_PRESETS: GameConfig[] = [
       { kind: "evolved" },
       { kind: "area" },
       { kind: "habitat" },
-      { kind: "stats6" },
+      { kind: "statsTotal" },
     ],
   },
   {

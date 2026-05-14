@@ -1,7 +1,16 @@
+html {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f5f7fa 0%, #e8ecf3 100%);
+  transition: filter 0.25s ease;
+}
+
+html.dark {
+  filter: invert(1) hue-rotate(180deg);
+}
+
 body {
   margin: 0;
   font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
-  background: #fafafa;
   min-height: 100vh;
 }
 

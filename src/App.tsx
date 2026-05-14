@@ -10,6 +10,7 @@ import GameOver from "./GameOver";
 import Input, { type InputControl } from "./Input";
 import GuessTable from "./GuessTable";
 
+type Theme = "light" | "dark";
 
 function App() {
   const [pets, setPets] = useState<Pet[]>([]);
@@ -18,8 +19,16 @@ function App() {
   const [gameOver, setGameOver] = useState(false);
   const [won, setWon] = useState(false);
   const [selectedDifficulty, setSelectedDifficulty] = useState(1);
+  const [theme, setTheme] = useState<Theme>(
+    () => (localStorage.getItem("theme") as Theme) || "light"
+  );
 
   const config: GameConfig = DIFFICULTY_PRESETS[selectedDifficulty];
+
+  useEffect(() => {
+    document.documentElement.classList.toggle("dark", theme === "dark");
+    localStorage.setItem("theme", theme);
+  }, [theme]);
 
   useEffect(() => {
     fetch("/pets.json")
@@ -39,7 +48,7 @@ function App() {
     const result = evaluateGuess(pet, target, config);
     const newGuesses = [...guesses, result];
     setGuesses(newGuesses);
-    inputControlRef?.current?.reset(true);
+    inputControlRef.current?.reset(true);
 
     if (result.isCorrect) {
       setWon(true);
@@ -54,7 +63,7 @@ function App() {
     setGuesses([]);
     setGameOver(false);
     setWon(false);
-    inputControlRef?.current?.reset(true);
+    inputControlRef.current?.reset(true);
   };
 
   const changeDifficulty = (idx: number) => {
@@ -66,6 +75,15 @@ function App() {
 
   return (
     <div className="app">
+      <button
+        type="button"
+        className="theme-toggle"
+        onClick={() => setTheme((t) => (t === "light" ? "dark" : "light"))}
+        aria-label="切换主题"
+        title={theme === "light" ? "切换到暗色" : "切换到亮色"}
+      >
+        {theme === "light" ? "☾" : "☀"}
+      </button>
       <Header />
       <DifficultySelector
         selected={selectedDifficulty}
@@ -82,7 +100,7 @@ function App() {
       )}
 
       {gameOver &&
-        <GameOver gameOver={gameOver} won={won} target={target}
+        <GameOver won={won} target={target}
           guessesLength={guesses.length} config={config}
           onResetClick={resetGame} />
       }

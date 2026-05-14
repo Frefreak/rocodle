@@ -9,7 +9,7 @@ type DifficultySelectorProp = {
 
 function DifficultySelector({selected: difficulty, changeDifficulty, maxGuesses, guessesLength}: DifficultySelectorProp) {
   return (
-    <div>
+    <div className="difficulty-bar">
       <div className="difficulty-selector">
         {DIFFICULTY_PRESETS.map((d, i) => (
           <button

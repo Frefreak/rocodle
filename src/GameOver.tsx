@@ -3,18 +3,14 @@ import { getItemModule } from "./items";
 import { Fragment } from "react/jsx-runtime";
 
 type GameOverProp = {
-  gameOver: boolean,
   won: boolean,
-  target: Pet | null,
+  target: Pet,
   guessesLength: number,
   config: GameConfig,
   onResetClick: () => void,
 }
 
 function GameOver({ won, target, guessesLength, config, onResetClick }: GameOverProp) {
-  if (!target) {
-    return null;
-  }
   return (
     <div className="game-over">
       {won ? (

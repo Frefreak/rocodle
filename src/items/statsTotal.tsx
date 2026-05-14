@@ -15,6 +15,12 @@ function totalOf(p: Pet): number {
   return STAT_KEYS.reduce((sum, k) => sum + p.stats[k], 0);
 }
 
+const TOOLTIPS: Record<TotalFeedback, string> = {
+  match: "正确",
+  higher: "目标更高",
+  lower: "目标更低",
+};
+
 export const statsTotalModule: ItemModule<StatsTotalItem, StatsTotalFeedback> = {
   kind: "statsTotal",
   columns: () => [{ label: "种族总和", width: "80px" }],
@@ -25,7 +31,11 @@ export const statsTotalModule: ItemModule<StatsTotalItem, StatsTotalFeedback> = 
     return { total: g, feedback };
   },
   renderRow: (fb) => [
-    <div key={0} className={`cell cell-stat statsTotal-${fb.feedback}`}>
+    <div
+      key={0}
+      className={`cell cell-stat statsTotal-${fb.feedback}`}
+      title={TOOLTIPS[fb.feedback]}
+    >
       <span className="stat-value">{fb.total}</span>
       <span className="arrow">
         {fb.feedback === "higher" ? "▲" : fb.feedback === "lower" ? "▼" : "✓"}

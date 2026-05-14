@@ -25,11 +25,11 @@ function Input({controlRef, submitGuess, pets, guessedIds}: InputProp) {
       setInput("");
       setSuggestions([]);
       setSelectedIndex(-1);
-      if (focus && inputRef) {
+      if (focus) {
         inputRef.current?.focus();
       }
     }
-  }));
+  }), []);
 
   const handleInputChange = (val: string) => {
     setInput(val);
