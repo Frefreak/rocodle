@@ -12,6 +12,12 @@ interface TypeFeedback {
 
 type TypeItem = Extract<GameItem, { kind: "type" }>;
 
+const TOOLTIPS: Record<TypeFb, string> = {
+  match: "完全匹配",
+  partial: "部分匹配",
+  no_match: "不匹配",
+};
+
 function feedbackFor(
   guess: PetType | null,
   exact: PetType | null,
@@ -48,10 +54,18 @@ export const typeModule: ItemModule<TypeItem, TypeFeedback> = {
     };
   },
   renderRow: (fb) => [
-    <div key={0} className={`cell cell-type type-${fb.mainFeedback}`}>
+    <div
+      key={0}
+      className={`cell cell-type type-${fb.mainFeedback}`}
+      title={TOOLTIPS[fb.mainFeedback]}
+    >
       {fb.guessMain?.zh ?? "无"}
     </div>,
-    <div key={1} className={`cell cell-type type-${fb.subFeedback}`}>
+    <div
+      key={1}
+      className={`cell cell-type type-${fb.subFeedback}`}
+      title={TOOLTIPS[fb.subFeedback]}
+    >
       {fb.guessSub?.zh ?? "无"}
     </div>,
   ],

@@ -10,6 +10,12 @@ interface HabitatFeedback {
 
 type HabitatItem = Extract<GameItem, { kind: "habitat" }>;
 
+const TOOLTIPS: Record<SetFb, string> = {
+  match: "完全匹配",
+  partial: "部分匹配",
+  no_match: "不匹配",
+};
+
 function split(s: string | null): string[] {
   if (!s) return [];
   return s
@@ -34,7 +40,11 @@ export const habitatModule: ItemModule<HabitatItem, HabitatFeedback> = {
     feedback: compareSets(split(guess.habitat), split(target.habitat)),
   }),
   renderRow: (fb) => [
-    <div key={0} className={`cell cell-habitat habitat-${fb.feedback}`}>
+    <div
+      key={0}
+      className={`cell cell-habitat habitat-${fb.feedback}`}
+      title={TOOLTIPS[fb.feedback]}
+    >
       {fb.guess ?? "无"}
     </div>,
   ],

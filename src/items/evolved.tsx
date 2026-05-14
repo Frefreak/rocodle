@@ -10,6 +10,11 @@ interface EvolvedFeedback {
 
 type EvolvedItem = Extract<GameItem, { kind: "evolved" }>;
 
+const TOOLTIPS: Record<EvolvedFb, string> = {
+  match: "相同",
+  no_match: "不同",
+};
+
 export const evolvedModule: ItemModule<EvolvedItem, EvolvedFeedback> = {
   kind: "evolved",
   columns: () => [{ label: "进化", width: "60px" }],
@@ -18,7 +23,11 @@ export const evolvedModule: ItemModule<EvolvedItem, EvolvedFeedback> = {
     feedback: guess.evolved === target.evolved ? "match" : "no_match",
   }),
   renderRow: (fb) => [
-    <div key={0} className={`cell cell-evolved evolved-${fb.feedback}`}>
+    <div
+      key={0}
+      className={`cell cell-evolved evolved-${fb.feedback}`}
+      title={TOOLTIPS[fb.feedback]}
+    >
       {fb.guess ? "已进化" : "未进化"}
     </div>,
   ],

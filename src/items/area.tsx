@@ -10,6 +10,12 @@ interface AreaFeedback {
 
 type AreaItem = Extract<GameItem, { kind: "area" }>;
 
+const TOOLTIPS: Record<SetFb, string> = {
+  match: "完全匹配",
+  partial: "部分匹配",
+  no_match: "不匹配",
+};
+
 function compareSets(guess: string[], target: string[]): SetFb {
   const g = new Set(guess);
   const t = new Set(target);
@@ -29,7 +35,11 @@ export const areaModule: ItemModule<AreaItem, AreaFeedback> = {
     feedback: compareSets(guess.area, target.area),
   }),
   renderRow: (fb) => [
-    <div key={0} className={`cell cell-area area-${fb.feedback}`}>
+    <div
+      key={0}
+      className={`cell cell-area area-${fb.feedback}`}
+      title={TOOLTIPS[fb.feedback]}
+    >
       {display(fb.guess)}
     </div>,
   ],
